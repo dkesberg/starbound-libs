@@ -2,7 +2,8 @@
 /**
  * LogReader - A log reader for starbound server logs
  * 
- * Based on 
+ * Based on the logs class by Jeremy Villemain
+ * https://gist.github.com/lagonnebula/7928214
  * 
  * @author      Daniel Kesberg <dkesberg@gmail.com>
  * @copyright   (c) 2013, Daniel Kesberg
@@ -10,25 +11,37 @@
 
 namespace Starbound;
 
-
 class LogReader {
 
+    /**
+     * Constants for server status
+     */
     const SERVER_OFFLINE    = 0;
     const SERVER_ONLINE     = 1;
-    
+
+    /**
+     * @var array
+     */
     private $config;
-    
+
+    /**
+     * @var array
+     */
     public $clients = array();
 
+    /**
+     * @var array
+     */
     public $server = array();
 
+    /**
+     * @var int|null
+     */
     public $parsetime = null;
-    
-    //public $timestamp = null;
 
 
     /**
-     * @param $config
+     * @param array $userConfig 
      */
     public function __construct(array $userConfig = array())
     {
@@ -38,11 +51,12 @@ class LogReader {
         
         if (isset($this->server['status']) && $this->server['status'] == self::SERVER_ONLINE) {
             $this->parseServerLog();    
-        }
-        
-        //$this->timestamp = time();
+        }        
     }
-    
+
+    /**
+     * @return array the default config
+     */
     public static function getDefaultConfig()
     {
         $config = array(
@@ -53,12 +67,20 @@ class LogReader {
         );
         return $config;
     }
-    
+
+    /**
+     * @return array the current config
+     */
     public function getConfig()
     {
         return $this->config;
-    }    
-    
+    }
+
+    /**
+     * parses the server log
+     * 
+     * @throws \Exception
+     */
     private function parseServerLog()
     {
         $parsetime = microtime();
@@ -81,6 +103,7 @@ class LogReader {
         
         while (($line = fgets($fp)) !== false) {
             
+            // using strpos for faster parsing, so we dont need to preg_match every line
             if (strpos($line, '<User:')) {
                 
                 if (preg_match('/<User: ([0-9a-zA-Z-\s]+)>\s*([a-z]+).*$/i', $line, $matches) == 1) {
@@ -109,7 +132,10 @@ class LogReader {
         
         $this->parsetime = microtime() - $parsetime;
     }
-    
+
+    /**
+     * checks and sets server status
+     */
     private function checkServerStatus()
     {
         $fp = @fsockopen($this->config['server.host'], $this->config['server.port']);
