@@ -30,7 +30,7 @@ $serverInfo = $info->server;
 // get connected players as an sorted array of playernames
 $players = $info->clients;
 
-// get parsetime (only for parsing the logfile)
+// get parsetime in seconds (only for parsing the logfile)
 $parsetime = $info->parsetime;
 
 ```
