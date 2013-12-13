@@ -49,6 +49,8 @@ class LogReader {
         
         $this->checkServerStatus();
         
+        $this->fetchServerInfo();
+        
         if (isset($this->server['status']) && $this->server['status'] == self::SERVER_ONLINE) {
             $this->parseServerLog();    
         }        
@@ -61,7 +63,7 @@ class LogReader {
     {
         $config = array(
             'log.filename'  => 'starbound_server.log',
-            'log.path'      => '/opt/Steam/SteamApps/common/Starbound/linux64/',
+            'log.path'      => '/opt/Steam/SteamApps/common/Starbound/linux64',
             'server.host'   => '127.0.0.1',
             'server.port'   => 21025,            
         );
@@ -149,6 +151,23 @@ class LogReader {
         }
     }
 
+    /**
+     * fetches ip, hostname of the server
+     */
+    private function fetchServerInfo()
+    {
+        $hostname = gethostname();
+        if ($hostname !== false) {            
+            $this->server['hostname'] = $hostname;
+            
+            $ip = gethostbyname($hostname);
+            if ($ip !== $hostname) {
+                $this->server['ip'] = $ip;
+            }
+        }
+        
+    }
+    
     /**
      * gets the server status
      * 
