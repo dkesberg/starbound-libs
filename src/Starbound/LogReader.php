@@ -30,15 +30,24 @@ class LogReader {
     public $clients = array();
 
     /**
+     * Server information as array.
+     * Contains following keys: status, version, ip, hostname
+     * 
      * @var array
      */
-    public $server = array();
+    public $server = array(
+        'status'    => self::SERVER_OFFLINE,
+        'version'   => 'unknown',
+        'ip'        => null,
+        'hostname'  => null
+    );
 
     /**
+     * Parsetime in seconds
+     * 
      * @var int|null
      */
     public $parsetime = null;
-
 
     /**
      * @param array $userConfig 
