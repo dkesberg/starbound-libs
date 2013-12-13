@@ -106,7 +106,7 @@ class LogReader {
             throw new \Exception('Log file not found.');
         }
         
-        $fp = @fopen($filepath, "r");
+        $fp = fopen($filepath, "r");
         
         if ($fp === false) {
             throw new \Exception('Can not read log file.');
