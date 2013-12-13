@@ -87,10 +87,10 @@ $logreader = new LogReader(array(
                             </tr>
                             </thead>
                             <tbody>
-                            <?php foreach ($logreader->clients as $client => $status): ?>
+                            <?php foreach ($logreader->clients as $playerName): ?>
                                 <tr>
                                     <td>
-                                        <?= $client; ?>
+                                        <?= $playerName; ?>
                                     </td>
                                 </tr>
                             <?php endforeach; ?>

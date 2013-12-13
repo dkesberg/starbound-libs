@@ -102,7 +102,8 @@ class LogReader {
         if ($fp === false) {
             throw new \Exception('Can not read log file.');
         }
-        
+
+        $clients = array();
         while (($line = fgets($fp)) !== false) {
             
             // using strpos for faster parsing, so we dont need to preg_match every line
@@ -111,7 +112,7 @@ class LogReader {
                 if (preg_match('/<User: ([0-9a-zA-Z-\s]+)>\s*([a-z]+).*$/i', $line, $matches) == 1) {
                     
                     if (isset($matches[1]) && !empty($matches[1])) {
-                        $this->clients[$matches[1]] = trim($matches[2]);
+                        $clients[$matches[1]] = trim($matches[2]);
                     }
                 }
                 
@@ -126,11 +127,17 @@ class LogReader {
         fclose($fp);
         
         // filter disconnected clients
-        if (!empty($this->clients)) {
-            $this->clients = array_filter($this->clients, function($status) {
+        if (!empty($clients)) {
+            $clients = array_filter($clients, function($status) {
                 return $status == 'connected';
             });
         }
+        
+        // remove status
+        $this->clients = array_keys($clients);
+        
+        // sort
+        natcasesort($this->clients);
         
         $this->parsetime = microtime() - $parsetime;
     }
