@@ -148,5 +148,24 @@ class LogReader {
             $this->server['status'] = self::SERVER_OFFLINE;
         }
     }
-    
+
+    /**
+     * gets the server status
+     * 
+     * @return bool
+     */
+    public function getServerStatus()
+    {
+        return ($this->server['status'] == self::SERVER_ONLINE) ? true : false;
+    }
+
+    /**
+     * gets the player count
+     * 
+     * @return int
+     */
+    public function getPlayerCount()
+    {
+        return count($this->clients);
+    }
 }
