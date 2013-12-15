@@ -12,7 +12,7 @@ require_once '../src/Starbound/LogReader.php';
 use Starbound\LogReader as LogReader;
 
 $logreader = new LogReader(array(
-    'log.path' => '.'
+    'log.path' => '/home/starbound-server/Steam/SteamApps/common/Starbound/linux64'
 ));
 ?>
 <!doctype html>
