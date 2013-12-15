@@ -116,11 +116,8 @@ class LogReader {
         while (($line = fgets($fp)) !== false) {
             // using strpos for faster parsing, so we dont need to preg_match every line
             if (strpos($line, 'Client')) {
-                var_dump($line);
                 if (preg_match("/\\'(.*)\\'.*?\((.*?)\)(.*)/i", $line, $matches) == 1) {
-                    var_dump($matches);
                     if (isset($matches[1]) && !empty($matches[1])) {
-                        var_dump($matches);
                         $client = array(
                             'name'      => htmlentities(trim($matches[1])),
                             'ip'        => $matches[2],
