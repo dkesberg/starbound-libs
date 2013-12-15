@@ -5,9 +5,10 @@
  */
 
 error_reporting(E_ALL);
-ini_set('display_errors', true);
+ini_set('display_errors', false);
 
 require_once '../src/Starbound/LogReader.php';
+include './vendor/GloryFish/pretty-json.php';
 
 use Starbound\LogReader as LogReader;
 
@@ -82,7 +83,7 @@ $logreader = new LogReader(array(
             <div class="panel panel-default">
                 <div class="panel-heading"><span class="glyphicon glyphicon-user"></span> Players</div>
                 <div class="panel-body">
-                    <?php if ($logreader->getPlayerCount(true)): ?>
+                    <?php if ($logreader->getPlayerCount()): ?>
                         <table class="table table-condensed table-bordered">
                             <thead>
                             <tr>
@@ -92,7 +93,7 @@ $logreader = new LogReader(array(
                             </tr>
                             </thead>
                             <tbody>
-                            <?php foreach ($logreader->getPlayers(true) as $player): ?>
+                            <?php foreach ($logreader->getPlayers() as $player): ?>
                                 <tr>
                                     <td>
                                         <?= $player['name']; ?>
@@ -114,6 +115,22 @@ $logreader = new LogReader(array(
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading"><span class="glyphicon glyphicon-user"></span> JSON</div>
+                <div class="panel-body">
+                    <?php
+                    if (function_exists('_format_json')) {
+                        echo _format_json($logreader->json(), true);
+                    } else {
+                        echo json_encode(json_decode($logreader->json(), true), JSON_PRETTY_PRINT);
+                    } ?>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-md-12">
             <span class="label label-default">

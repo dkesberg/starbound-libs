@@ -136,6 +136,13 @@ class LogReader {
             }
         }
 
+        // filter disconnected clients
+        if (!empty($clients)) {
+            $clients = array_filter($clients, function($client) {
+                return $client['status'] == 'connected';
+            });
+        }
+
         // sort by player names
         if (!empty($clients)) {
             uksort($clients, 'strnatcasecmp');
@@ -195,28 +202,24 @@ class LogReader {
      * 
      * @return int
      */
-    public function getPlayerCount($offline = false)
+    public function getPlayerCount()
     {
-        if (!$offline) {
-            return count($this->getPlayers(true));
-        }
-
         return count($this->clients);
     }
 
-    public function getPlayers($offline = false)
+    public function getPlayers()
     {
-        if (!$offline) {
-            return $this->clients;
-        }
+        return $this->clients;
+    }
 
-        // filter disconnected clients
-        $clients = array();
-        if (!empty($this->clients)) {
-            $clients = array_filter($this->clients, function($client) {
-                return $client['status'] == 'connected';
-            });
-        }
-        return $clients;
+    public function json()
+    {
+        $json = array(
+            'server'        => $this->server,
+            'playerlist'    => $this->clients,
+            'playercount'   => $this->getPlayerCount()
+        );
+
+        return json_encode($json);
     }
 }
