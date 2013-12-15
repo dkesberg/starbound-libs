@@ -47,7 +47,7 @@ $players = $info->getPlayers();
 ### Get server & player info as json
 
 ```
-$json = $info->json
+$json = $info->json()
 ```
 
 Examples
