@@ -112,7 +112,7 @@ class LogReader {
         $clients = array();
         while (($line = fgets($fp)) !== false) {
             // using strpos for faster parsing, so we dont need to preg_match every line
-            if (strpos($line, 'Client')) {
+            if (strpos($line, 'Info: Client') !== false) {
                 if (preg_match("/\\'(.*)\\'.*?\((.*?)\)(.*)/i", $line, $matches) == 1) {
                     if (isset($matches[1]) && !empty($matches[1])) {
                         $client = array(
@@ -125,7 +125,7 @@ class LogReader {
                     }
                 }
                 
-            } elseif (strpos($line, 'Server version')) {
+            } elseif (strpos($line, 'Server version') !== false) {
                 if (preg_match("/Info: Server version '([0-9a-zA-Z\.\s]*)' '([0-9]*)' '([0-9]*)'/i", $line, $matches) == 1) {
                     //$this->server['version'] = implode(' ', $matches);
                     $this->server['version'] = $matches[1];
