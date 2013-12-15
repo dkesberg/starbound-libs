@@ -44,6 +44,16 @@ $activePlayers = $info->getPlayerCount();
 $players = $info->getPlayers();
 ```
 
+### Get chatlog
+
+```
+// default order: newest messages on bottom
+$players = $info->getChatlog();
+
+// descending order: newest messages on top
+$players = $info->getChatlog(true);
+```
+
 ### Get server & player info as json
 
 ```
