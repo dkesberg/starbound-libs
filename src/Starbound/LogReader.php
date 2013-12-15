@@ -1,10 +1,7 @@
 <?php
 /**
  * LogReader - A log reader for starbound server logs
- * 
- * Based on the logs class by Jeremy Villemain
- * https://gist.github.com/lagonnebula/7928214
- * 
+ *
  * @author      Daniel Kesberg <dkesberg@gmail.com>
  * @copyright   (c) 2013, Daniel Kesberg
  */
@@ -198,6 +195,16 @@ class LogReader {
     }
 
     /**
+     * get server info
+     *
+     * @return array
+     */
+    public function getServer()
+    {
+        return $this->server;
+    }
+
+    /**
      * gets the player count
      * 
      * @return int
@@ -207,11 +214,21 @@ class LogReader {
         return count($this->clients);
     }
 
+    /**
+     * get player list
+     *
+     * @return array
+     */
     public function getPlayers()
     {
         return $this->clients;
     }
 
+    /**
+     * get json
+     *
+     * @return string
+     */
     public function json()
     {
         $json = array(

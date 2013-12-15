@@ -6,7 +6,7 @@ PHP class to grab some information from a starbound server. Hopefully more to co
 
 How to use
 ----------
-
+  
 ```
 // include class
 require_once '../src/Starbound/LogReader.php';
@@ -16,23 +16,51 @@ $info = new LogReader(array(
     'log.path' => '/path/to/your/starbound/directory/Steam/SteamApps/common/Starbound/linux64'
 ));
 
-// check if server is online
-// returns true = online; false = offline
-$serverStatus = $info->getServerStatus();
-
-// get amount of players
-$activePlayers = $info->getPlayerCount();
-
-// get server info as array
-// contains following keys: status, version, ip, hostname
-$serverInfo = $info->server;
-
-// get connected players as an sorted array of playernames
-$players = $info->clients;
-
-// get parsetime in seconds (only for parsing the logfile)
-$parsetime = $info->parsetime;
-
 ```
 
-You can also find an example in public/example.php
+
+### Check server status
+
+```
+// returns true = online; false = offline
+$serverStatus = $info->getServerStatus();
+```
+
+### Get server info
+  
+```
+$serverInfo = $info->getServer();
+```
+
+### Get amount of players
+
+```
+$activePlayers = $info->getPlayerCount();
+```
+
+### Get players
+
+```
+$players = $info->getPlayers();
+```
+
+### Get server & player info as json
+
+```
+$json = $info->json
+```
+
+Examples
+--------
+
+Example for a webinterface: examples/basic.php
+
+Example for json response: examples/json.php
+
+Thanks to
+---------
+
+Jeremy Villemain, this class is based on his logs class  
+[https://gist.github.com/lagonnebula/7928214](https://gist.github.com/lagonnebula/7928214)
+
+[Starbound forum community](http://community.playstarbound.com/)
