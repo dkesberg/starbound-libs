@@ -199,6 +199,11 @@ class LogReader {
      */
     private function fetchServerInfo()
     {
+        if ($this->server['ip'] == '127.0.0.1') {
+            $this->server['hostname'] = gethostname();
+            $this->server['ip'] = null;
+        }
+
         if ($this->server['ip'] !== null) {
             $hostname = gethostbyaddr($this->server['ip']);
             if ($hostname !== $this->server['ip']) {
