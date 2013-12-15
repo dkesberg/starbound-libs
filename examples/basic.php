@@ -7,9 +7,10 @@
 error_reporting(E_ALL);
 ini_set('display_errors', false);
 
-require_once '../src/Starbound/LogReader.php';
+// json pretty printing
 include './vendor/GloryFish/pretty-json.php';
 
+require_once '../src/Starbound/LogReader.php';
 use Starbound\LogReader as LogReader;
 
 $logreader = new LogReader(array(
@@ -118,7 +119,7 @@ $logreader = new LogReader(array(
     <div class="row">
         <div class="col-md-12">
             <div class="panel panel-default">
-                <div class="panel-heading"><span class="glyphicon glyphicon-user"></span> JSON</div>
+                <div class="panel-heading"><span class="glyphicon glyphicon-cog"></span> JSON</div>
                 <div class="panel-body">
                     <?php
                     if (function_exists('_format_json')) {
