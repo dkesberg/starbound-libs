@@ -117,7 +117,7 @@ class LogReader {
 
             // using strpos for faster parsing, so we dont need to preg_match every line
             if (strpos($line, 'Client')) {
-                if (preg_match("/\'(.*)\'.*?\((.*?)\)(.*)/i", $line, $matches) == 1) {
+                if (preg_match("/\\\'(.*)\\\'.*?\((.*?)\)(.*)/i", $line, $matches) == 1) {
 
                     if (isset($matches[1]) && !empty($matches[1])) {
 
