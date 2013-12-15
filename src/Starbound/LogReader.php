@@ -194,16 +194,21 @@ class LogReader {
      */
     private function fetchServerInfo()
     {
-        $hostname = gethostname();
-        if ($hostname !== false) {            
-            $this->server['hostname'] = $hostname;
-            
-            $ip = gethostbyname($hostname);
-            if ($ip !== $hostname) {
+        if (filter_var($this->config['server.host'], FILTER_VALIDATE_IP, FILTER_FLAG_IPV4)) {
+            $this->server['ip'] = $this->config['server.host'];
+
+            $hostname = gethostbyaddr($this->server['ip']);
+            if ($hostname !== $this->server['ip']) {
+                $this->server['hostname'] = $hostname;
+            }
+        } else {
+            $this->server['hostname'] = $this->config['server.host'];
+
+            $ip = gethostbyname($this->server['hostname']);
+            if ($ip !== $this->server['hostname']) {
                 $this->server['ip'] = $ip;
             }
         }
-        
     }
     
     /**
