@@ -59,15 +59,15 @@ $logreader = new LogReader(array(
                         </tr>
                         <tr>
                             <th>Version</th>
-                            <td><?= $logreader->server['version']; ?></td>
+                            <td><?= $logreader->getServer()['version']; ?></td>
                         </tr>
                         <tr>
                             <th>Hostname</th>
-                            <td><?= $logreader->server['hostname']; ?></td>
+                            <td><?= $logreader->getServer()['hostname']; ?></td>
                         </tr>
                         <tr>
                             <th>IP</th>
-                            <td><?= $logreader->server['ip']; ?></td>
+                            <td><?= $logreader->getServer()['ip']; ?></td>
                         </tr>
                         <tr>
                             <th>Players Online</th>
@@ -111,6 +111,39 @@ $logreader = new LogReader(array(
                         </table>
                     <?php else: ?>
                         No active players
+                    <?php endif; ?>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading"><span class="glyphicon glyphicon-user"></span> Chat</div>
+                <div class="panel-body">
+                    <?php if (count($logreader->getChatlog()) !== 0): ?>
+                        <table class="table table-condensed table-bordered">
+                            <thead>
+                            <tr>
+                                <th>Playername</th>
+                                <th>Text</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <?php foreach ($logreader->getChatlog(true) as $chatline): ?>
+                                <tr>
+                                    <td>
+                                        <?= $chatline['name']; ?>
+                                    </td>
+                                    <td>
+                                        <?= $chatline['text']; ?>
+                                    </td>
+                                </tr>
+                            <?php endforeach; ?>
+                            </tbody>
+                        </table>
+                    <?php else: ?>
+                        No chat messages
                     <?php endif; ?>
                 </div>
             </div>

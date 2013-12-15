@@ -11,17 +11,13 @@ namespace Starbound;
 class LogReader {
 
     /**
-     * Constants for server status
-     */
-    const SERVER_OFFLINE    = 0;
-    const SERVER_ONLINE     = 1;
-
-    /**
      * @var array
      */
     private $config;
 
     /**
+     * Client array
+     * Clients are stored as arrays with the following keys: name, ip, status
      * @var array
      */
     private $clients = array();
@@ -32,12 +28,19 @@ class LogReader {
      * 
      * @var array
      */
-    public $server = array(
-        'status'    => self::SERVER_OFFLINE,
+    private $server = array(
+        'status'    => false,
         'version'   => 'unknown',
         'ip'        => null,
         'hostname'  => null
     );
+
+    /**
+     * Chatlog
+     * Loglines are stored as arrays with the following keys: name, text
+     * @var array
+     */
+    private $chatlog = array();
 
     /**
      * Parsetime in seconds
@@ -57,8 +60,8 @@ class LogReader {
         
         $this->fetchServerInfo();
         
-        if (isset($this->server['status']) && $this->server['status'] == self::SERVER_ONLINE) {
-            $this->parseServerLog();    
+        if (isset($this->server['status']) && $this->server['status']) {
+            $this->parseServerLog();
         }        
     }
 
@@ -70,8 +73,9 @@ class LogReader {
         $config = array(
             'log.filename'  => 'starbound_server.log',
             'log.path'      => '/opt/Steam/SteamApps/common/Starbound/linux64',
+            'log.fields'    => 'clients,version,chat,',
             'server.host'   => '127.0.0.1',
-            'server.port'   => 21025,            
+            'server.port'   => 21025,
         );
         return $config;
     }
@@ -110,9 +114,12 @@ class LogReader {
         }
 
         $clients = array();
+        $fields = array_filter(array_map('trim', explode(',',$this->config['log.fields'])));
+
         while (($line = fgets($fp)) !== false) {
             // using strpos for faster parsing, so we dont need to preg_match every line
-            if (strpos($line, 'Info: Client') !== false) {
+            if (in_array('clients', $fields)
+                && strpos($line, 'Info: Client') !== false) {
                 if (preg_match("/\\'(.*)\\'.*?\((.*?)\)(.*)/i", $line, $matches) == 1) {
                     if (isset($matches[1]) && !empty($matches[1])) {
                         $client = array(
@@ -126,10 +133,24 @@ class LogReader {
                 }
                 
             } elseif (strpos($line, 'Server version') !== false) {
+
                 if (preg_match("/Info: Server version '([0-9a-zA-Z\.\s]*)' '([0-9]*)' '([0-9]*)'/i", $line, $matches) == 1) {
                     //$this->server['version'] = implode(' ', $matches);
                     $this->server['version'] = $matches[1];
                 }
+            } elseif (in_array('chat', $fields)
+                && strpos($line, 'Info:') !== false) {
+                if (preg_match('/Info\:\s*<([^>]{2,})>\s?(.*)/i', $line, $matches)) {
+                    if (isset($matches[1]) && !empty($matches[1])) {
+                        $chatline = array(
+                            'name'  => htmlentities(trim($matches[1])),
+                            'text'  => htmlentities(trim($matches[2]))
+                        );
+
+                        $this->chatlog[] = $chatline;
+                    }
+                }
+
             }
         }
 
@@ -159,11 +180,11 @@ class LogReader {
         $fp = @fsockopen($this->config['server.host'], $this->config['server.port']);
 
         if ($fp) {
-            $this->server['status'] = self::SERVER_ONLINE;
+            $this->server['status'] = true;
             fclose($fp);
             
         } else {            
-            $this->server['status'] = self::SERVER_OFFLINE;
+            $this->server['status'] = false;
         }
     }
 
@@ -191,7 +212,7 @@ class LogReader {
      */
     public function getServerStatus()
     {
-        return ($this->server['status'] == self::SERVER_ONLINE) ? true : false;
+        return $this->server['status'];
     }
 
     /**
@@ -225,6 +246,20 @@ class LogReader {
     }
 
     /**
+     * get chat log
+     *
+     * @param bool $desc set to true to reverse the sort order (newest messages on top)
+     * @return array
+     */
+    public function getChatlog($desc = false)
+    {
+        if ($desc == true) {
+            return array_reverse($this->chatlog);
+        }
+        return $this->chatlog;
+    }
+
+    /**
      * get json
      *
      * @return string
@@ -234,7 +269,8 @@ class LogReader {
         $json = array(
             'server'        => $this->server,
             'playerlist'    => $this->clients,
-            'playercount'   => $this->getPlayerCount()
+            'playercount'   => $this->getPlayerCount(),
+            'chatlog'       => $this->chatlog
         );
 
         return json_encode($json);
