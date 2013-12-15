@@ -55,14 +55,20 @@ class LogReader {
     public function __construct(array $userConfig = array())
     {
         $this->config = array_merge(static::getDefaultConfig(), $userConfig);
-        
+
+        // populate server array with config values for offline display
+        if (filter_var($this->config['server.host'], FILTER_VALIDATE_IP, FILTER_FLAG_IPV4)) {
+            $this->server['ip'] = $this->config['server.host'];
+        } else {
+            $this->server['hostname'] = $this->config['server.host'];
+        }
+
         $this->checkServerStatus();
-        
-        $this->fetchServerInfo();
-        
+
         if (isset($this->server['status']) && $this->server['status']) {
+            $this->fetchServerInfo();
             $this->parseServerLog();
-        }        
+        }
     }
 
     /**
@@ -151,7 +157,6 @@ class LogReader {
                         $this->chatlog[] = $chatline;
                     }
                 }
-
             }
         }
 
@@ -194,16 +199,13 @@ class LogReader {
      */
     private function fetchServerInfo()
     {
-        if (filter_var($this->config['server.host'], FILTER_VALIDATE_IP, FILTER_FLAG_IPV4)) {
-            $this->server['ip'] = $this->config['server.host'];
-
+        if ($this->server['ip'] !== null) {
             $hostname = gethostbyaddr($this->server['ip']);
             if ($hostname !== $this->server['ip']) {
                 $this->server['hostname'] = $hostname;
             }
-        } else {
-            $this->server['hostname'] = $this->config['server.host'];
 
+        } elseif ($this->server['hostname'] !== null) {
             $ip = gethostbyname($this->server['hostname']);
             if ($ip !== $this->server['hostname']) {
                 $this->server['ip'] = $ip;
