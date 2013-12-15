@@ -132,12 +132,13 @@ class LogReader {
                     }
                 }
                 
-            } elseif (strpos($line, 'Server version') !== false) {
-
+            } elseif (in_array('version', $fields)
+                && strpos($line, 'Server version') !== false) {
                 if (preg_match("/Info: Server version '([0-9a-zA-Z\.\s]*)' '([0-9]*)' '([0-9]*)'/i", $line, $matches) == 1) {
                     //$this->server['version'] = implode(' ', $matches);
                     $this->server['version'] = $matches[1];
                 }
+
             } elseif (in_array('chat', $fields)
                 && strpos($line, 'Info:') !== false) {
                 if (preg_match('/Info\:\s*<([^>]{2,})>\s?(.*)/i', $line, $matches)) {
