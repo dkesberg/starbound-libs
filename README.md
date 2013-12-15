@@ -30,6 +30,14 @@ $serverStatus = $info->getServerStatus();
   
 ```
 $serverInfo = $info->getServer();
+
+// $serverInfo is an array like this
+$serverInfo = array(
+   'status'    => true,
+   'version'   => 'Beta v. Offended Koala',
+   'ip'        => '123.456.789.900',
+   'hostname'  => 'starbound-server.name'
+);
 ```
 
 ### Get amount of players
