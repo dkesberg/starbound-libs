@@ -4,6 +4,9 @@
  * @copyright   (c) 2013, Daniel Kesberg
  */
 
+error_reporting(E_ALL);
+ini_set('display_errors', true);
+
 require_once '../src/Starbound/LogReader.php';
 
 use Starbound\LogReader as LogReader;
@@ -79,18 +82,26 @@ $logreader = new LogReader(array(
             <div class="panel panel-default">
                 <div class="panel-heading"><span class="glyphicon glyphicon-user"></span> Players</div>
                 <div class="panel-body">
-                    <?php if ($logreader->getPlayerCount()): ?>
+                    <?php if ($logreader->getPlayerCount(true)): ?>
                         <table class="table table-condensed table-bordered">
                             <thead>
                             <tr>
                                 <th>Playername</th>
+                                <th>Ip</th>
+                                <th>Status</th>
                             </tr>
                             </thead>
                             <tbody>
-                            <?php foreach ($logreader->clients as $playerName): ?>
+                            <?php foreach ($logreader->getPlayers(true) as $player): ?>
                                 <tr>
                                     <td>
-                                        <?= $playerName; ?>
+                                        <?= $player['name']; ?>
+                                    </td>
+                                    <td>
+                                        <?= $player['ip']; ?>
+                                    </td>
+                                    <td>
+                                        <?= $player['status']; ?>
                                     </td>
                                 </tr>
                             <?php endforeach; ?>

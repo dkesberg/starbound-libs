@@ -27,7 +27,7 @@ class LogReader {
     /**
      * @var array
      */
-    public $clients = array();
+    private $clients = array();
 
     /**
      * Server information as array.
@@ -107,46 +107,45 @@ class LogReader {
         }
         
         $fp = fopen($filepath, "r");
-        
+
         if ($fp === false) {
             throw new \Exception('Can not read log file.');
         }
 
         $clients = array();
         while (($line = fgets($fp)) !== false) {
-            
+
             // using strpos for faster parsing, so we dont need to preg_match every line
-            if (strpos($line, '<User:')) {
-                
-                if (preg_match('/<User: ([0-9a-zA-Z-\s]+)>\s*([a-z]+).*$/i', $line, $matches) == 1) {
-                    
+            if (strpos($line, 'Client')) {
+                if (preg_match("/\'(.*)\'.*?\((.*?)\)(.*)/i", $line, $matches) == 1) {
+
                     if (isset($matches[1]) && !empty($matches[1])) {
-                        $clients[$matches[1]] = trim($matches[2]);
+
+                        $client = array(
+                            'name'      => htmlentities(trim($matches[1])),
+                            'ip'        => $matches[2],
+                            'status'    => trim($matches[3])
+                        );
+
+                        $clients[$client['name']] = $client;
                     }
                 }
                 
             } elseif (strpos($line, 'Server version')) {
-                
                 if (preg_match("/Info: Server version '([0-9a-zA-Z\.\s]*)' '([0-9]*)' '([0-9]*)'/i", $line, $matches) == 1) {
                     //$this->server['version'] = implode(' ', $matches);
                     $this->server['version'] = $matches[1];
                 }
             }
         }
-        fclose($fp);
-        
-        // filter disconnected clients
+
+        // sort by player names
         if (!empty($clients)) {
-            $clients = array_filter($clients, function($status) {
-                return $status == 'connected';
-            });
+            uksort($clients, 'strnatcasecmp');
         }
-        
-        // remove status
-        $this->clients = array_keys($clients);
-        
-        // sort
-        natcasesort($this->clients);
+        $this->clients = $clients;
+
+        fclose($fp);
         
         $this->parsetime = microtime() - $parsetime;
     }
@@ -199,8 +198,28 @@ class LogReader {
      * 
      * @return int
      */
-    public function getPlayerCount()
+    public function getPlayerCount($offline = false)
     {
+        if (!$offline) {
+            return count($this->getPlayers(true));
+        }
+
         return count($this->clients);
+    }
+
+    public function getPlayers($offline = false)
+    {
+        if (!$offline) {
+            return $this->clients;
+        }
+
+        // filter disconnected clients
+        $clients = array();
+        if (!empty($this->clients)) {
+            $clients = array_filter($this->clients, function($client) {
+                return $client['status'] == 'connected';
+            });
+        }
+        return $clients;
     }
 }
