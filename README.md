@@ -42,16 +42,35 @@ $activePlayers = $info->getPlayerCount();
 
 ```
 $players = $info->getPlayers();
+
+// $players is an array like this
+$players = array(
+    'player1' => array(
+        'name'      => 'player1',
+        'ip'        => '123.145.678.900',
+        'status'    => 'connected'
+    ),
+    ...
+)
 ```
 
 ### Get chatlog
 
 ```
 // default order: newest messages on bottom
-$players = $info->getChatlog();
+$chatlog = $info->getChatlog();
 
 // descending order: newest messages on top
-$players = $info->getChatlog(true);
+$chatlog = $info->getChatlog(true);
+
+// $chatlog is an array like this
+$chatlog = array(
+    array(
+        'name'  => 'player1',
+        'text'  => 'chatmessage'
+    ),
+    ...
+)
 ```
 
 ### Get server & player info as json
