@@ -52,7 +52,7 @@ $logreader = new LogReader(array(
                         <tr>
                             <th>Status</th>
                             <td class="server-status">
-                                <span class="label label-<?= ($logreader->getServerStatus() == 1) ? 'success' : 'danger' ; ?>">
+                                <span class="label label-<?= ($logreader->getServerStatus()) ? 'success' : 'danger' ; ?>">
                                 <?= ($logreader->getServerStatus() == 1) ? 'Online' : 'Offline' ; ?>
                                 </span>
                             </td>
