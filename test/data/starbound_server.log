@@ -1,0 +1,2081 @@
+Info: Loading Star::Root...
+Info: Loading Star::Configuration from './starbound.config'
+Debug: Correcting path from /terrain/surface/mountainoussurface.terrain to /terrain/surface/mountainousSurface.terrain
+Debug: Correcting path from /terrain/surface/normalsurface.terrain to /terrain/surface/normalSurface.terrain
+Debug: Correcting path from /terrain/surface/relaxedhillssurface.terrain to /terrain/surface/relaxedHillsSurface.terrain
+Warn: Slow asset 0.051 : /treasure/basictreasure.treasurepools
+Warn: Slow asset 0.055 : /treasure/default.treasurepools
+Debug: Correcting path from /effects/breathcritical.effectsource to /effects/breathCritical.effectsource
+Debug: Correcting path from /effects/breathrisk.effectsource to /effects/breathRisk.effectsource
+Debug: Correcting path from /effects/foodcritical.effectsource to /effects/foodCritical.effectsource
+Debug: Correcting path from /effects/foodrisk.effectsource to /effects/foodRisk.effectsource
+Debug: Correcting path from /effects/healthcritical.effectsource to /effects/healthCritical.effectsource
+Debug: Correcting path from /effects/healthrisk.effectsource to /effects/healthRisk.effectsource
+Debug: Correcting path from /effects/multijump.effectsource to /effects/multiJump.effectsource
+Debug: Correcting path from /effects/warmthcritical.effectsource to /effects/warmthCritical.effectsource
+Debug: Correcting path from /effects/warmthrisk.effectsource to /effects/warmthRisk.effectsource
+Debug: Correcting path from /tiles/mods/cerulium.matmod to /tiles/mods/Cerulium.matmod
+Debug: Correcting path from /tiles/mods/rubium.matmod to /tiles/mods/Rubium.matmod
+Debug: Correcting path from /tiles/mods/cerulium.matmod to /tiles/mods/Cerulium.matmod
+Debug: Correcting path from /biomes/underground/generic/bottom/rock04layer.undergroundbiome to /biomes/underground/Generic/bottom/rock04layer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/bottom/rock12layer.undergroundbiome to /biomes/underground/Generic/bottom/rock12layer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/bottom/rock14layer.undergroundbiome to /biomes/underground/Generic/bottom/rock14layer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/bottom/rock15layer.undergroundbiome to /biomes/underground/Generic/bottom/rock15layer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/bottom/rock17layer.undergroundbiome to /biomes/underground/Generic/bottom/rock17layer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/middle/rock01layer.undergroundbiome to /biomes/underground/Generic/middle/rock01layer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/middle/rock02.undergroundbiome to /biomes/underground/Generic/middle/rock02.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/middle/rock03.undergroundbiome to /biomes/underground/Generic/middle/rock03.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/middle/rock19.undergroundbiome to /biomes/underground/Generic/middle/rock19.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/middle/rock20.undergroundbiome to /biomes/underground/Generic/middle/rock20.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/top/claylayer.undergroundbiome to /biomes/underground/Generic/top/claylayer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/top/drydirtlayer.undergroundbiome to /biomes/underground/Generic/top/drydirtlayer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/top/drysandlayer.undergroundbiome to /biomes/underground/Generic/top/drysandlayer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/top/gravellayer.undergroundbiome to /biomes/underground/Generic/top/gravellayer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/top/mudlayer.undergroundbiome to /biomes/underground/Generic/top/mudlayer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/top/sandlayer.undergroundbiome to /biomes/underground/Generic/top/sandlayer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/top/sandstonelayer.undergroundbiome to /biomes/underground/Generic/top/sandstonelayer.undergroundbiome
+Debug: Correcting path from /biomes/underground/generic/core/blaststonecorelayer.corebiome to /biomes/underground/Generic/core/blaststonecorelayer.corebiome
+Debug: Correcting path from /biomes/underground/generic/core/magmarockcorelayer.corebiome to /biomes/underground/Generic/core/magmarockcorelayer.corebiome
+Debug: Correcting path from /biomes/underground/generic/core/obisidiancorelayer.corebiome to /biomes/underground/Generic/core/obisidiancorelayer.corebiome
+Debug: Correcting path from /projectiles/npcs/staticfireball/staticfireball.projectile to /projectiles/npcs/staticFireball/staticFireball.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/chomp1/chomp1.projectile to /projectiles/swoosh/Unused/chomp1/chomp1.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/chomp2/chomp2.projectile to /projectiles/swoosh/Unused/chomp2/chomp2.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/chomp3/chomp3.projectile to /projectiles/swoosh/Unused/chomp3/chomp3.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/chomp4/chomp4.projectile to /projectiles/swoosh/Unused/chomp4/chomp4.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/swoopdown1/swoopdown1.projectile to /projectiles/swoosh/Unused/swoopdown1/swoopdown1.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/swoopup1/swoopup1.projectile to /projectiles/swoosh/Unused/swoopup1/swoopup1.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/testsideswoosh/testsideswoosh.projectile to /projectiles/swoosh/Unused/testsideswoosh/testsideswoosh.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/testswoosh/testswoosh.projectile to /projectiles/swoosh/Unused/testswoosh/testswoosh.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/testswoosh2/testswoosh2.projectile to /projectiles/swoosh/Unused/testswoosh2/testswoosh2.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/testswoosh4/testswoosh4.projectile to /projectiles/swoosh/Unused/testswoosh4/testswoosh4.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/thrust1/thrust1.projectile to /projectiles/swoosh/Unused/thrust1/thrust1.projectile
+Debug: Correcting path from /projectiles/npcs/staticfireball/staticfireball.projectile to /projectiles/npcs/staticFireball/staticFireball.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/chomp1/chomp1.projectile to /projectiles/swoosh/Unused/chomp1/chomp1.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/chomp3/chomp3.projectile to /projectiles/swoosh/Unused/chomp3/chomp3.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/chomp4/chomp4.projectile to /projectiles/swoosh/Unused/chomp4/chomp4.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/testsideswoosh/testsideswoosh.projectile to /projectiles/swoosh/Unused/testsideswoosh/testsideswoosh.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/testswoosh4/testswoosh4.projectile to /projectiles/swoosh/Unused/testswoosh4/testswoosh4.projectile
+Debug: Correcting path from /projectiles/swoosh/unused/thrust1/thrust1.projectile to /projectiles/swoosh/Unused/thrust1/thrust1.projectile
+Debug: Correcting path from /plants/trees/undergroundforest/stem/underwood/underwood.modularstem to /plants/trees/undergroundforest/Stem/underwood/underwood.modularstem
+Debug: Correcting path from /plants/trees/undergroundforest/foliage/mossy/mossy.modularfoliage to /plants/trees/undergroundforest/Foliage/mossy/mossy.modularfoliage
+Debug: Correcting path from /plants/trees/undergroundforest/foliage/scattered/scattered.modularfoliage to /plants/trees/undergroundforest/Foliage/scattered/scattered.modularfoliage
+Debug: Correcting path from /monsters/unique/penguin/rockettrooper.monstertype to /monsters/unique/penguin/rocketTrooper.monstertype
+Debug: Correcting path from /monsters/unique/penguinminiufo/penguinminiufo.monstertype to /monsters/unique/penguinMiniUfo/penguinMiniUfo.monstertype
+Debug: Correcting path from /monsters/unique/penguintank/penguintank.monstertype to /monsters/unique/penguinTank/penguinTank.monstertype
+Debug: Correcting path from /monsters/unique/penguinufo/penguinufo.monstertype to /monsters/unique/penguinUfo/penguinUfo.monstertype
+Debug: Correcting path from /monsters/unique/penguintank/penguintank.monstertype to /monsters/unique/penguinTank/penguinTank.monstertype
+Debug: Correcting path from /monsters/unique/penguinufo/penguinufo.monstertype to /monsters/unique/penguinUfo/penguinUfo.monstertype
+Debug: Correcting path from /monsters/unique/penguin/backarm/generalbackarm.monsterpart to /monsters/unique/penguin/backArm/generalBackArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/backarm/rockettrooperbackarm.monsterpart to /monsters/unique/penguin/backArm/rocketTrooperBackArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/backarm/trooperbackarm.monsterpart to /monsters/unique/penguin/backArm/trooperBackArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/body/generalbody.monsterpart to /monsters/unique/penguin/body/generalBody.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/body/rockettrooperbody.monsterpart to /monsters/unique/penguin/body/rocketTrooperBody.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/body/trooperbody.monsterpart to /monsters/unique/penguin/body/trooperBody.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/chest/dynamitechest.monsterpart to /monsters/unique/penguin/chest/dynamiteChest.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/frontarm/generalfrontarm.monsterpart to /monsters/unique/penguin/frontArm/generalFrontArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/frontarm/rockettrooperfrontarm.monsterpart to /monsters/unique/penguin/frontArm/rocketTrooperFrontArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/frontarm/trooperfrontarm.monsterpart to /monsters/unique/penguin/frontArm/trooperFrontArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/helm/generalhelm.monsterpart to /monsters/unique/penguin/helm/generalHelm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/helm/rockettrooperhelm.monsterpart to /monsters/unique/penguin/helm/rocketTrooperHelm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/helm/trooperhelm.monsterpart to /monsters/unique/penguin/helm/trooperHelm.monsterpart
+Debug: Correcting path from /monsters/unique/penguinminiufo/ufo/ufo.monsterpart to /monsters/unique/penguinMiniUfo/ufo/ufo.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/body.monsterpart to /monsters/unique/penguinTank/parts/body.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/gun.monsterpart to /monsters/unique/penguinTank/parts/gun.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/pilot.monsterpart to /monsters/unique/penguinTank/parts/pilot.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/smoke.monsterpart to /monsters/unique/penguinTank/parts/smoke.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/turret.monsterpart to /monsters/unique/penguinTank/parts/turret.monsterpart
+Debug: Correcting path from /monsters/unique/penguinufo/pilot/pilot.monsterpart to /monsters/unique/penguinUfo/pilot/pilot.monsterpart
+Debug: Correcting path from /monsters/unique/penguinufo/ufo/ufo.monsterpart to /monsters/unique/penguinUfo/ufo/ufo.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/backarm/generalbackarm.monsterpart to /monsters/unique/penguin/backArm/generalBackArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/backarm/rockettrooperbackarm.monsterpart to /monsters/unique/penguin/backArm/rocketTrooperBackArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/backarm/trooperbackarm.monsterpart to /monsters/unique/penguin/backArm/trooperBackArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/body/generalbody.monsterpart to /monsters/unique/penguin/body/generalBody.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/body/rockettrooperbody.monsterpart to /monsters/unique/penguin/body/rocketTrooperBody.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/body/trooperbody.monsterpart to /monsters/unique/penguin/body/trooperBody.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/frontarm/generalfrontarm.monsterpart to /monsters/unique/penguin/frontArm/generalFrontArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/frontarm/trooperfrontarm.monsterpart to /monsters/unique/penguin/frontArm/trooperFrontArm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/helm/generalhelm.monsterpart to /monsters/unique/penguin/helm/generalHelm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/helm/rockettrooperhelm.monsterpart to /monsters/unique/penguin/helm/rocketTrooperHelm.monsterpart
+Debug: Correcting path from /monsters/unique/penguin/helm/trooperhelm.monsterpart to /monsters/unique/penguin/helm/trooperHelm.monsterpart
+Debug: Correcting path from /monsters/unique/penguinminiufo/ufo/ufo.monsterpart to /monsters/unique/penguinMiniUfo/ufo/ufo.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/body.monsterpart to /monsters/unique/penguinTank/parts/body.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/gun.monsterpart to /monsters/unique/penguinTank/parts/gun.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/smoke.monsterpart to /monsters/unique/penguinTank/parts/smoke.monsterpart
+Debug: Correcting path from /monsters/unique/penguintank/parts/turret.monsterpart to /monsters/unique/penguinTank/parts/turret.monsterpart
+Debug: Correcting path from /monsters/unique/penguinufo/pilot/pilot.monsterpart to /monsters/unique/penguinUfo/pilot/pilot.monsterpart
+Debug: Correcting path from /monsters/unique/penguinufo/ufo/ufo.monsterpart to /monsters/unique/penguinUfo/ufo/ufo.monsterpart
+Debug: Correcting path from /monsters/flying/skills/flyingswoopattack.monsterskill to /monsters/flying/skills/flyingSwoopAttack.monsterskill
+Debug: Correcting path from /monsters/flying/skills/flyingswoopbounceattack.monsterskill to /monsters/flying/skills/flyingSwoopBounceAttack.monsterskill
+Debug: Correcting path from /monsters/flying/skills/ranged/airbubbleblastrangedattack.monsterskill to /monsters/flying/skills/ranged/airBubbleBlastRangedAttack.monsterskill
+Debug: Correcting path from /monsters/flying/skills/ranged/airflameburstrangedattack.monsterskill to /monsters/flying/skills/ranged/airflameBurstRangedAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/chargeattack.monsterskill to /monsters/ground/skills/chargeAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/meleeattack.monsterskill to /monsters/ground/skills/meleeAttack.monsterskill
+Debug: Correcting path from /monsters/flying/skills/ranged/airflameburstrangedattack.monsterskill to /monsters/flying/skills/ranged/airflameBurstRangedAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/chargeattack.monsterskill to /monsters/ground/skills/chargeAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/meleeattack.monsterskill to /monsters/ground/skills/meleeAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/pounceattack.monsterskill to /monsters/ground/skills/pounceAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/ranged/bubbleblastrangedattack.monsterskill to /monsters/ground/skills/ranged/BubbleBlastRangedAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/ranged/flameburstrangedattack.monsterskill to /monsters/ground/skills/ranged/flameBurstRangedAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/ranged/rangedattack.monsterskill to /monsters/ground/skills/ranged/rangedAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/staticprojectileattack.monsterskill to /monsters/ground/skills/staticProjectileAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/ranged/bubbleblastrangedattack.monsterskill to /monsters/ground/skills/ranged/BubbleBlastRangedAttack.monsterskill
+Debug: Correcting path from /monsters/ground/skills/ranged/flameburstrangedattack.monsterskill to /monsters/ground/skills/ranged/flameBurstRangedAttack.monsterskill
+Warn: Slow asset 0.091 : /npcs/merchant.npctype
+Debug: Correcting path from /items/generic/crafting/ceruliumbar.item to /items/generic/crafting/Ceruliumbar.item
+Debug: Correcting path from /items/generic/crafting/ceruliumore.item to /items/generic/crafting/Ceruliumore.item
+Debug: Correcting path from /items/generic/crafting/feroziumbar.item to /items/generic/crafting/Feroziumbar.item
+Debug: Correcting path from /items/generic/crafting/rubiumbar.item to /items/generic/crafting/Rubiumbar.item
+Debug: Correcting path from /items/generic/crafting/rubiumore.item to /items/generic/crafting/Rubiumore.item
+Debug: Correcting path from /items/generic/crafting/violiumbar.item to /items/generic/crafting/Violiumbar.item
+Debug: Correcting path from /items/generic/crafting/ceruliumore.item to /items/generic/crafting/Ceruliumore.item
+Debug: Correcting path from /items/generic/crafting/rubiumbar.item to /items/generic/crafting/Rubiumbar.item
+Debug: Correcting path from /items/generic/crafting/rubiumore.item to /items/generic/crafting/Rubiumore.item
+Debug: Correcting path from /items/armors/decorative/developers/ban/ban.head to /items/armors/decorative/developers/Ban/Ban.head
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.head to /items/armors/other/fullmetal/Fullmetal.head
+Debug: Correcting path from /items/armors/decorative/developers/ban/ban.chest to /items/armors/decorative/developers/Ban/Ban.chest
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.chest to /items/armors/other/fullmetal/Fullmetal.chest
+Debug: Correcting path from /items/armors/decorative/developers/ban/ban.legs to /items/armors/decorative/developers/Ban/ban.legs
+Debug: Correcting path from /items/armors/decorative/developers/ban/ban.head to /items/armors/decorative/developers/Ban/Ban.head
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.legs to /items/armors/other/fullmetal/Fullmetal.legs
+Debug: Correcting path from /items/armors/backitems/batterypackaa/batterypackaa.back to /items/armors/backitems/batterypackAA/batterypackAA.back
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.back to /items/armors/other/fullmetal/Fullmetal.back
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.head to /items/armors/other/fullmetal/Fullmetal.head
+Debug: Correcting path from /items/armors/decorative/developers/ban/ban.chest to /items/armors/decorative/developers/Ban/Ban.chest
+Debug: Correcting path from /items/armors/decorative/developers/ban/ban.chest to /items/armors/decorative/developers/Ban/Ban.chest
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.chest to /items/armors/other/fullmetal/Fullmetal.chest
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.chest to /items/armors/other/fullmetal/Fullmetal.chest
+Debug: Correcting path from /items/armors/decorative/developers/ban/ban.legs to /items/armors/decorative/developers/Ban/ban.legs
+Debug: Correcting path from /items/armors/decorative/developers/ban/ban.legs to /items/armors/decorative/developers/Ban/ban.legs
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.legs to /items/armors/other/fullmetal/Fullmetal.legs
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.legs to /items/armors/other/fullmetal/Fullmetal.legs
+Debug: Correcting path from /items/armors/backitems/batterypackaa/batterypackaa.back to /items/armors/backitems/batterypackAA/batterypackAA.back
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.back to /items/armors/other/fullmetal/Fullmetal.back
+Debug: Correcting path from /items/armors/other/fullmetal/fullmetal.back to /items/armors/other/fullmetal/Fullmetal.back
+Warn: Object apexcaptainschair does not have a price set
+Warn: Object apexfuelhatch does not have a category set
+Warn: Object apexfuelhatch does not have a price set
+Warn: Object apexshiplocker does not have a price set
+Warn: Object aviancaptainschair does not have a price set
+Warn: Object avianfuelhatch does not have a category set
+Warn: Object avianfuelhatch does not have a price set
+Warn: Object avianshiplocker does not have a price set
+Warn: Object decoyprincess does not have a price set
+Warn: Object ironbeacon does not have a price set
+Warn: Object peanutbutter does not have a price set
+Warn: Object robot does not have a price set
+Warn: Object automatoseed does not have a price set
+Warn: Object wildautomatoseed does not have a price set
+Warn: Object avesmingoseed does not have a price set
+Warn: Object wildavesmingoseed does not have a price set
+Warn: Object bananaseed does not have a price set
+Warn: Object wildbananaseed does not have a price set
+Warn: Object beakseedseed does not have a price set
+Warn: Object wildbeakseedseed does not have a price set
+Warn: Object boltbulbseed does not have a price set
+Warn: Object wildboltbulbseed does not have a price set
+Warn: Object bonebooseed does not have a price set
+Warn: Object wildbonebooseed does not have a price set
+Warn: Object carrotseed does not have a price set
+Warn: Object wildcarrotseed does not have a price set
+Warn: Object chiliseed does not have a price set
+Warn: Object wildchiliseed does not have a price set
+Warn: Object coralcreepseed does not have a price set
+Warn: Object wildcoralcreepseed does not have a price set
+Warn: Object cornseed does not have a price set
+Warn: Object wildcornseed does not have a price set
+Warn: Object crystalplantseed does not have a price set
+Warn: Object wildcrystalplantseed does not have a price set
+Warn: Object currentcornseed does not have a price set
+Warn: Object wildcurrentcornseed does not have a price set
+Warn: Object diodiaseed does not have a price set
+Warn: Object wilddiodiaseed does not have a price set
+Warn: Object dirturchinseed does not have a price set
+Warn: Object wilddirturchinseed does not have a price set
+Warn: Object eggshootseed does not have a price set
+Warn: Object wildeggshootseed does not have a price set
+Warn: Object feathercrownseed does not have a price set
+Warn: Object wildfeathercrownseed does not have a price set
+Warn: Object flowerblue does not have a price set
+Warn: Object flowerred does not have a price set
+Warn: Object floweryellow does not have a price set
+Warn: Object grapesseed does not have a price set
+Warn: Object wildgrapesseed does not have a price set
+Warn: Object kiwiseed does not have a price set
+Warn: Object wildkiwiseed does not have a price set
+Warn: Object mushroomseed does not have a price set
+Warn: Object neonmelonseed does not have a price set
+Warn: Object wildneonmelonseed does not have a price set
+Warn: Object oculemonseed does not have a price set
+Warn: Object wildoculemonseed does not have a price set
+Warn: Object pearlpeaseed does not have a price set
+Warn: Object wildpearlpeaseed does not have a price set
+Warn: Object pineappleseed does not have a price set
+Warn: Object wildpineappleseed does not have a price set
+Warn: Object potatoseed does not have a price set
+Warn: Object wildpotatoseed does not have a price set
+Warn: Object pussplumseed does not have a price set
+Warn: Object wildpussplumseed does not have a price set
+Warn: Object reefpodseed does not have a price set
+Warn: Object wildreefpodseed does not have a price set
+Warn: Object riceseed does not have a price set
+Warn: Object wildriceseed does not have a price set
+Warn: Object sugarcaneseed does not have a price set
+Warn: Object wildsugarcaneseed does not have a price set
+Warn: Object tomatoseed does not have a price set
+Warn: Object wildtomatoseed does not have a price set
+Warn: Object toxictopseed does not have a price set
+Warn: Object wildtoxictopseed does not have a price set
+Warn: Object wartweedseed does not have a price set
+Warn: Object wildwartweedseed does not have a price set
+Warn: Object wheatseed does not have a price set
+Warn: Object wildwheatseed does not have a price set
+Warn: Missing inventoryIcon for chestplant1, using default
+Warn: Object florancaptainschair does not have a price set
+Warn: Object floranfuelhatch does not have a category set
+Warn: Object floranfuelhatch does not have a price set
+Warn: Object floranshiplocker does not have a price set
+Warn: Object 3dprinter does not have a price set
+Warn: Object apexdungeonpod does not have a price set
+Warn: Object aviandungeonpod does not have a price set
+Warn: Missing inventoryIcon for barvent, using default
+Warn: Object boosterflame does not have a price set
+Warn: Object boosterflamehuman does not have a price set
+Warn: Object cultistaltar does not have a price set
+Warn: Object dungeonpod does not have a price set
+Warn: Object florandungeonpod does not have a price set
+Warn: Object frogstatue does not have a category set
+Warn: Object glitchdungeonpod does not have a price set
+Warn: Object randomfountain does not have a price set
+Warn: Object smallboosterflame does not have a price set
+Warn: Object statuspod does not have a price set
+Warn: Object teacup1 does not have a category set
+Warn: Object teapot1 does not have a category set
+Warn: Object teleporter does not have a price set
+Warn: Object tis1 does not have a price set
+Warn: Object volcanopod does not have a price set
+Warn: Object wflowerpot does not have a category set
+Warn: Object woodencookingtable does not have a price set
+Warn: Missing inventoryIcon for wreckvent, using default
+Warn: Object glitchcaptainschair does not have a price set
+Warn: Object glitchfuelhatch does not have a category set
+Warn: Object glitchfuelhatch does not have a price set
+Warn: Object glitchshiplocker does not have a price set
+Debug: Correcting path from /objects/glitch/sewergauge/sewergauge.png to /objects/glitch/sewergauge/sewerGauge.png
+Debug: Correcting path from /objects/glitch/sewervalve/sewervalve.png to /objects/glitch/sewervalve/sewerValve.png
+Debug: Correcting path from /objects/glitch/wallpipe/wallpipe.png to /objects/glitch/wallpipe/wallPipe.png
+Debug: Correcting path from /objects/glitch/wallpipe/wallpipe.png to /objects/glitch/wallpipe/wallPipe.png
+Warn: Object captainschair does not have a price set
+Warn: Object fuelhatch does not have a category set
+Warn: Object fuelhatch does not have a price set
+Warn: Object shiplocker does not have a price set
+Warn: Object techconsolehuman does not have a price set
+Warn: Object hylotlcaptainschair does not have a price set
+Warn: Object hylotlfuelhatch does not have a category set
+Warn: Object hylotlfuelhatch does not have a price set
+Warn: Object hylotlshiplocker does not have a price set
+Warn: Object snowglobe1 does not have a category set
+Warn: Object snowglobe2 does not have a category set
+Debug: Correcting path from /recipes/level33/feroziumbar.recipe to /recipes/level33/Feroziumbar.recipe
+Debug: Correcting path from /recipes/level35/violiumbar.recipe to /recipes/level35/Violiumbar.recipe
+Debug: Correcting path from /objects/minibiome/mushroom/shroombed/shroombedicon.png to /objects/minibiome/mushroom/shroombed/shroombedIcon.png
+Debug: Correcting path from /objects/tiered/tier3bed/tier3bedicon.png to /objects/tiered/tier3bed/tier3bedIcon.png
+Debug: Correcting path from /objects/tiered/tier3bed/tier3bedicon.png to /objects/tiered/tier3bed/tier3bedIcon.png
+Debug: Correcting path from /objects/tiered/tier3chair/tier3chairicon.png to /objects/tiered/tier3chair/tier3chairIcon.png
+Debug: Correcting path from /objects/tiered/tier3door/tier3dooricon.png to /objects/tiered/tier3door/tier3doorIcon.png
+Debug: Correcting path from /objects/tiered/tier3door/tier3dooricon.png to /objects/tiered/tier3door/tier3doorIcon.png
+Debug: Correcting path from /objects/tiered/tier3light/tier3lighticon.png to /objects/tiered/tier3light/tier3lightIcon.png
+Debug: Correcting path from /objects/tiered/tier4bed/tier4bedicon.png to /objects/tiered/tier4bed/tier4bedIcon.png
+Debug: Correcting path from /objects/tiered/tier4chair/tier4chairicon.png to /objects/tiered/tier4chair/tier4chairIcon.png
+Debug: Correcting path from /objects/tiered/tier4door/tier4dooricon.png to /objects/tiered/tier4door/tier4doorIcon.png
+Debug: Correcting path from /objects/tiered/tier4light/tier4lighticon.png to /objects/tiered/tier4light/tier4lightIcon.png
+Debug: Correcting path from /objects/tiered/tier4switch/tier4switchicon.png to /objects/tiered/tier4switch/tier4switchIcon.png
+Debug: Correcting path from /objects/tiered/tier5bed/tier5bedicon.png to /objects/tiered/tier5bed/tier5bedIcon.png
+Debug: Correcting path from /objects/tiered/tier5bed/tier5bedicon.png to /objects/tiered/tier5bed/tier5bedIcon.png
+Debug: Correcting path from /objects/tiered/tier5chair/tier5chairicon.png to /objects/tiered/tier5chair/tier5chairIcon.png
+Debug: Correcting path from /objects/tiered/tier5door/tier5dooricon.png to /objects/tiered/tier5door/tier5doorIcon.png
+Debug: Correcting path from /objects/tiered/tier5door/tier5dooricon.png to /objects/tiered/tier5door/tier5doorIcon.png
+Debug: Correcting path from /objects/tiered/tier5light/tier5lighticon.png to /objects/tiered/tier5light/tier5lightIcon.png
+Debug: Correcting path from /objects/tiered/tier5switch/tier5switchicon.png to /objects/tiered/tier5switch/tier5switchIcon.png
+Debug: Correcting path from /objects/tiered/tier5switch/tier5switchicon.png to /objects/tiered/tier5switch/tier5switchIcon.png
+Debug: Correcting path from /recipes/level33/feroziumbar.recipe to /recipes/level33/Feroziumbar.recipe
+Debug: Correcting path from /items/generic/crafting/feroziumbar.item to /items/generic/crafting/Feroziumbar.item
+Debug: Correcting path from /objects/tiered/tier6bed/tier6bedicon.png to /objects/tiered/tier6bed/tier6bedIcon.png
+Debug: Correcting path from /objects/tiered/tier6door/tier6dooricon.png to /objects/tiered/tier6door/tier6doorIcon.png
+Debug: Correcting path from /objects/tiered/tier6light/tier6lighticon.png to /objects/tiered/tier6light/tier6lightIcon.png
+Debug: Correcting path from /objects/tiered/tier6switch/tier6switchicon.png to /objects/tiered/tier6switch/tier6switchIcon.png
+Debug: Correcting path from /objects/tiered/tier6switch/tier6switchicon.png to /objects/tiered/tier6switch/tier6switchIcon.png
+Debug: Correcting path from /objects/tiered/tier8bed/tier8bedicon.png to /objects/tiered/tier8bed/tier8bedIcon.png
+Debug: Correcting path from /objects/tiered/tier8chair/tier8chairicon.png to /objects/tiered/tier8chair/tier8chairIcon.png
+Debug: Correcting path from /objects/tiered/tier8chair/tier8chairicon.png to /objects/tiered/tier8chair/tier8chairIcon.png
+Debug: Correcting path from /objects/tiered/tier8door/tier8dooricon.png to /objects/tiered/tier8door/tier8doorIcon.png
+Debug: Correcting path from /objects/tiered/tier8light/tier8lighticon.png to /objects/tiered/tier8light/tier8lightIcon.png
+Debug: Correcting path from /objects/tiered/tier8light/tier8lighticon.png to /objects/tiered/tier8light/tier8lightIcon.png
+Debug: Correcting path from /objects/tiered/tier8switch/tier8switchicon.png to /objects/tiered/tier8switch/tier8switchIcon.png
+Debug: Correcting path from /recipes/level35/violiumbar.recipe to /recipes/level35/Violiumbar.recipe
+Debug: Correcting path from /items/generic/crafting/violiumbar.item to /items/generic/crafting/Violiumbar.item
+Debug: Correcting path from /objects/tiered/tier9bed/tier9bedicon.png to /objects/tiered/tier9bed/tier9bedIcon.png
+Debug: Correcting path from /objects/tiered/tier9chair/tier9chairicon.png to /objects/tiered/tier9chair/tier9chairIcon.png
+Debug: Correcting path from /objects/tiered/tier9door/tier9dooricon.png to /objects/tiered/tier9door/tier9doorIcon.png
+Debug: Correcting path from /objects/tiered/tier9light/tier9lighticon.png to /objects/tiered/tier9light/tier9lightIcon.png
+Debug: Correcting path from /objects/tiered/tier9switch/tier9switchicon.png to /objects/tiered/tier9switch/tier9switchIcon.png
+Debug: Correcting path from /items/armors/floran/floranfurnivour/icons.png to /items/armors/floran/floranfurnivour/Icons.png
+Debug: Correcting path from /items/armors/floran/floranfurnivour/icons.png to /items/armors/floran/floranfurnivour/Icons.png
+Debug: Correcting path from /items/armors/floran/floranhunter/icons.png to /items/armors/floran/floranhunter/Icons.png
+Debug: Correcting path from /items/armors/floran/floranhunter/icons.png to /items/armors/floran/floranhunter/Icons.png
+Debug: Correcting path from /items/armors/floran/floranhunter/icons.png to /items/armors/floran/floranhunter/Icons.png
+Debug: Correcting path from /items/armors/floran/floranleaf/icons.png to /items/armors/floran/floranleaf/Icons.png
+Debug: Correcting path from /items/armors/floran/floranleaf/icons.png to /items/armors/floran/floranleaf/Icons.png
+Debug: Correcting path from /items/armors/floran/floranpelt/icons.png to /items/armors/floran/floranpelt/Icons.png
+Debug: Correcting path from /items/armors/floran/floranpelt/icons.png to /items/armors/floran/floranpelt/Icons.png
+Debug: Correcting path from /items/armors/floran/floransurvivalist/icons.png to /items/armors/floran/floransurvivalist/Icons.png
+Debug: Correcting path from /items/armors/floran/floransurvivalist/icons.png to /items/armors/floran/floransurvivalist/Icons.png
+Debug: Correcting path from /items/armors/human/human-cool/icons.png to /items/armors/human/human-cool/Icons.png
+Debug: Correcting path from /items/armors/human/human-cool/icons.png to /items/armors/human/human-cool/Icons.png
+Debug: Correcting path from /items/armors/human/human-cool/icons.png to /items/armors/human/human-cool/Icons.png
+Debug: Correcting path from /items/generic/crafting/rubiumbar.item to /items/generic/crafting/Rubiumbar.item
+Debug: Correcting path from /items/generic/crafting/violiumbar.item to /items/generic/crafting/Violiumbar.item
+Debug: Correcting path from /items/generic/crafting/feroziumbar.item to /items/generic/crafting/Feroziumbar.item
+Debug: Correcting path from /items/generic/crafting/ceruliumbar.item to /items/generic/crafting/Ceruliumbar.item
+Warn: Slow asset 0.051 : /dungeons/avian/avianairship/avianairship.dungeon
+Warn: Slow asset 0.081 : /dungeons/avian/aviantomb/aviantomb.dungeon
+Warn: Slow asset 0.102 : /dungeons/avian/aviantemple/aviantemple.dungeon
+Warn: Slow asset 0.057 : /dungeons/avian/avianvillage/avianvillage.dungeon
+Warn: Slow asset 0.057 : /dungeons/floran/floranvillagetower/floranvillagetower.dungeon
+Warn: Slow asset 0.088 : /dungeons/glitch/glitchcastle/glitchcastle.dungeon
+Warn: Slow asset 0.052 : /dungeons/glitch/glitchsewer/glitchsewer.dungeon
+Warn: Slow asset 0.051 : /dungeons/human/humanbunker/humanbunker.dungeon
+Warn: Slow asset 0.09 : /dungeons/glitch/glitchvillage/glitchvillage.dungeon
+Warn: Slow asset 0.076 : /dungeons/human/humanprison/humanprison.dungeon
+Warn: Slow asset 0.096 : /dungeons/microdungeons/randomencounter/generic/miniboss.dungeon
+Warn: Slow asset 0.093 : /dungeons/microdungeons/randomencounter/generic/randomencounter.dungeon
+Debug: Found connector on 1 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (51, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10 at (0, 31) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10 at (26, 31) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 11 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 12 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 12 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 14 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 16 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 16 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 20 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 20 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 21 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 21 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 22 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 22 at (26, 1) color (0, 38, 255, 255) direction 1
+Warn: Slow asset 0.096 : /dungeons/microdungeons/randomencounter/shroomencounter/shroomencounter.dungeon
+Debug: Found connector on 23 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 23 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 27 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 27 at (51, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3 at (51, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3 at (51, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4 at (51, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 9 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9 at (51, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 9 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9 at (51, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance1 at (95, 111) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance1 at (95, 96) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance1 at (169, 96) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (70, 81) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance1 at (169, 81) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (70, 66) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance1 at (144, 66) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (70, 51) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance1 at (144, 51) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template1 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template1 at (51, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template2 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template2 at (51, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template2 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template2 at (51, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template3 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template3 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template4 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template4 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template4 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template4 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template5 at (0, 31) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template5 at (26, 31) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template5 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template5 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template5 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template5 at (26, 1) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template6 at (0, 31) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template6 at (53, 31) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template6 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template6 at (53, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on template6 at (0, 1) color (0, 38, 255, 255) direction 0
+Debug: Found connector on template6 at (53, 1) color (0, 38, 255, 255) direction 1
+Warn: Slow asset 0.117 : /dungeons/microdungeons/randomencounter/underground generic/undergroundencounter.dungeon
+Debug: Found connector on 1 at (1, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (43, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10a at (14, 30) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10a at (1, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10b at (1, 30) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10b at (14, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11a at (35, 74) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11a at (36, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11b at (2, 74) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 11b at (1, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a at (13, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a at (42, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b at (40, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b at (11, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2c at (1, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2c at (11, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2d at (50, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2d at (40, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3a at (43, 23) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3a at (0, 7) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3b at (0, 23) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3b at (43, 7) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4 at (1, 40) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4 at (84, 40) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5 at (1, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5 at (56, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6a at (1, 34) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6a at (47, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6b at (47, 34) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6b at (1, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7a at (1, 43) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7a at (65, 7) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7b at (65, 43) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7b at (1, 7) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8a at (1, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8a at (79, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8b at (1, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8b at (79, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 9 at (1, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9 at (37, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance1 at (109, 30) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance1underground at (109, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on rewardroom1a at (12, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on rewardroom1b at (1, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on anchor1 at (12, 32) color (0, 38, 255, 255) direction 2
+Debug: Found connector on anchor1 at (0, 25) color (255, 0, 0, 255) direction 0
+Debug: Found connector on anchor1 at (99, 25) color (255, 0, 0, 255) direction 1
+Debug: Found connector on basement2 at (17, 10) color (255, 255, 0, 255) direction 2
+Debug: Found connector on basement2 at (0, 1) color (255, 0, 0, 255) direction 0
+Debug: Found connector on basement2 at (99, 1) color (255, 0, 0, 255) direction 1
+Debug: Found connector on floor1 at (12, 17) color (0, 38, 255, 255) direction 2
+Debug: Found connector on floor1 at (12, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on floor2 at (12, 17) color (0, 38, 255, 255) direction 2
+Debug: Found connector on floor2 at (12, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on floor3 at (12, 17) color (0, 38, 255, 255) direction 2
+Debug: Found connector on floor3 at (12, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on floor4 at (12, 17) color (0, 38, 255, 255) direction 2
+Debug: Found connector on floor4 at (12, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on floor5 at (12, 17) color (0, 38, 255, 255) direction 2
+Debug: Found connector on floor5 at (12, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on floorb1 at (17, 10) color (255, 255, 0, 255) direction 2
+Debug: Found connector on floorb1 at (17, 0) color (255, 255, 0, 255) direction 3
+Debug: Found connector on floorb2 at (17, 10) color (255, 255, 0, 255) direction 2
+Debug: Found connector on floorb2 at (17, 0) color (255, 255, 0, 255) direction 3
+Debug: Found connector on floorb3 at (17, 10) color (255, 255, 0, 255) direction 2
+Debug: Found connector on floorb3 at (17, 0) color (255, 255, 0, 255) direction 3
+Debug: Found connector on floorb4 at (17, 10) color (255, 255, 0, 255) direction 2
+Debug: Found connector on floorb4 at (17, 0) color (255, 255, 0, 255) direction 3
+Debug: Found connector on floorb5 at (17, 10) color (255, 255, 0, 255) direction 2
+Debug: Found connector on floorb5 at (17, 0) color (255, 255, 0, 255) direction 3
+Debug: Found connector on offices at (0, 25) color (255, 0, 0, 255) direction 0
+Debug: Found connector on offices at (99, 25) color (255, 0, 0, 255) direction 1
+Debug: Found connector on plaza1 at (0, 7) color (255, 0, 0, 255) direction 0
+Debug: Found connector on plaza1 at (96, 7) color (255, 0, 0, 255) direction 1
+Debug: Found connector on roof1 at (12, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roofb at (17, 1) color (255, 255, 0, 255) direction 3
+Debug: Found connector on store at (0, 10) color (255, 0, 0, 255) direction 0
+Debug: Found connector on store at (99, 10) color (255, 0, 0, 255) direction 1
+Warn: Slow asset 0.054 : /dungeons/avian/avianairship/avianairship.dungeon
+Warn: Slow asset 0.09 : /dungeons/avian/aviantemple/aviantemple.dungeon
+Debug: Found connector on 1 at (59, 95) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1 at (20, 57) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (98, 57) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1 at (59, 25) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 10 at (45, 58) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10 at (73, 58) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10 at (59, 46) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 11 at (89, 74) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11 at (31, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 12 at (30, 74) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 12 at (88, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13a at (109, 82) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13a at (109, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13b at (93, 45) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13c at (91, 62) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13c at (65, 41) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 14a at (10, 82) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14a at (10, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14b at (26, 45) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14c at (27, 62) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14c at (53, 41) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 15a at (59, 107) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 15a at (10, 76) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15a at (108, 76) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15a at (59, 12) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 15b at (10, 74) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15b at (108, 74) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15b at (59, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 15c at (10, 52) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15c at (108, 52) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15c at (59, 20) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 15d at (10, 67) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15d at (108, 67) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 16 at (84, 63) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 16 at (34, 45) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 17 at (34, 63) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 17 at (84, 45) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 18 at (96, 59) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 19a at (10, 85) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 19a at (108, 85) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 19a at (59, 35) color (0, 255, 186, 255) direction 3
+Debug: Found connector on 19b at (2, 66) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 19b at (116, 66) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 19b at (59, 39) color (0, 255, 186, 255) direction 3
+Debug: Found connector on 19c at (59, 81) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2 at (59, 64) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2 at (59, 55) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 20 at (20, 52) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 20 at (98, 52) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 21a at (89, 63) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 21a at (29, 47) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 21b at (29, 63) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 21b at (89, 47) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 21c at (59, 81) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 21c at (89, 48) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 21c at (29, 47) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 22 at (68, 69) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 22 at (53, 50) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 23 at (51, 69) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 23 at (66, 50) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 24 at (48, 69) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 24 at (79, 54) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 24 at (65, 50) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 25 at (70, 69) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 25 at (39, 54) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 25 at (53, 50) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 26 at (34, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 26 at (85, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 27 at (45, 75) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 27 at (83, 54) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 27 at (45, 44) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 28 at (74, 75) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 28 at (36, 54) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 28 at (74, 44) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 29 at (45, 54) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 29 at (73, 54) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 29 at (59, 50) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 3 at (69, 72) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 3 at (40, 52) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 30 at (19, 47) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 30 at (99, 47) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 30 at (59, 43) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 4 at (49, 72) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4 at (78, 52) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5a at (45, 54) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5a at (73, 54) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b at (45, 54) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5b at (73, 54) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5c at (45, 54) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5c at (73, 54) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6 at (38, 54) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (80, 54) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6 at (59, 50) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 7 at (23, 47) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7 at (95, 47) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7 at (59, 35) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 8a at (59, 85) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 8a at (18, 39) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8a at (100, 39) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8b at (18, 40) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8b at (100, 40) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 9 at (10, 54) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9 at (109, 54) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endceiling1 at (9, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling2 at (9, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling3 at (9, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endfloor1 at (9, 6) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2 at (9, 7) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor3 at (9, 8) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor4 at (9, 4) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endleft1a at (16, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1b at (16, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1c at (16, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1d at (16, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2a at (16, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2b at (16, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2c at (16, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2d at (16, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3a at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3b at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3c at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3d at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3e at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4a at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4b at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4c at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4d at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4e at (17, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft5 at (4, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright1a at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1b at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1c at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1d at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2a at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2b at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2c at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2d at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3a at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3b at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3c at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3d at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3e at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4a at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4b at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4c at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4d at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4e at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright5 at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance at (174, 5) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance2 at (174, 23) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance3 at (175, 28) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance4 at (175, 18) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance5 at (175, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance6 at (174, 107) color (186, 255, 0, 255) direction 3
+Debug: Found connector on pyramidentry1 at (35, 70) color (186, 255, 0, 255) direction 2
+Debug: Found connector on pyramidentry1 at (35, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on pyramidentry2 at (35, 70) color (186, 255, 0, 255) direction 2
+Debug: Found connector on pyramidentry2 at (35, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on pyramidentry3 at (35, 70) color (186, 255, 0, 255) direction 2
+Debug: Found connector on pyramidentry3 at (35, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on waterendceiling at (9, 0) color (0, 255, 186, 255) direction 3
+Debug: Found connector on waterendfloor at (9, 3) color (0, 255, 186, 255) direction 2
+Debug: Found connector on waterendleft at (3, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on waterendright at (0, 4) color (0, 255, 186, 255) direction 0
+Warn: Slow asset 0.06 : /dungeons/avian/aviantomb/aviantomb.dungeon
+Debug: Found connector on 10a at (8, 9) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10a at (51, 9) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10b at (8, 9) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10b at (51, 9) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11a at (8, 9) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 11a at (51, 9) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 12a at (8, 9) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 12a at (51, 9) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13a at (59, 47) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 13a at (5, 24) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13a at (113, 24) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13a at (59, 9) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 14a at (7, 13) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14a at (66, 13) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 14b at (37, 34) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 14b at (7, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14b at (66, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15a at (7, 38) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15a at (34, 38) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15b at (7, 38) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15b at (34, 38) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15c at (7, 38) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15c at (34, 38) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 16a at (37, 38) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 16a at (6, 33) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 17a at (6, 38) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 17a at (37, 33) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a at (60, 90) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1a at (5, 56) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (115, 56) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a at (60, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 2a at (50, 40) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2a at (18, 9) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 2b at (50, 40) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2b at (9, 13) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2c at (59, 25) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2c at (18, 9) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 2d at (59, 25) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2d at (9, 13) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3a at (18, 40) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 3a at (50, 9) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 3b at (18, 40) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 3b at (59, 13) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3c at (7, 25) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3c at (48, 9) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 3d at (9, 25) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3d at (59, 13) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4a at (59, 81) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4a at (9, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4a at (109, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7a at (17, 49) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 7a at (29, 22) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7a at (5, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7b at (19, 37) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 7b at (7, 22) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7b at (31, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7c at (7, 22) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7c at (31, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8a at (17, 49) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 8a at (5, 22) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8a at (29, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8b at (19, 37) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 8b at (31, 22) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8b at (7, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8c at (31, 22) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8c at (7, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endceiling at (9, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling1a at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling2a at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling2b at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling3a at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling4 at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling5a at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling6a at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling6b at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling7 at (29, 1) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endfloor at (9, 3) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor1a at (29, 35) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2a at (13, 13) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2b at (13, 13) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endleft at (3, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1a at (33, 12) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1b at (33, 12) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2a at (33, 12) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2b at (33, 12) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3a at (33, 12) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3b at (33, 12) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1a at (1, 12) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1b at (1, 12) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2a at (1, 12) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2b at (1, 12) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3a at (1, 12) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3b at (1, 12) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (121, 36) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance2 at (78, 51) color (0, 38, 255, 255) direction 3
+Debug: Found connector on waterendceiling at (9, 0) color (0, 255, 186, 255) direction 3
+Debug: Found connector on waterendfloor at (9, 3) color (0, 255, 186, 255) direction 2
+Debug: Found connector on waterendleft at (3, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on waterendright at (0, 4) color (0, 255, 186, 255) direction 0
+Warn: Slow asset 0.062 : /dungeons/avian/aviantower/aviantower.dungeon
+Debug: Found connector on 1 at (37, 64) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1 at (37, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 2 at (37, 64) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2 at (37, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 3 at (37, 54) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 3 at (37, 20) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 4 at (38, 71) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4 at (38, 4) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 5 at (38, 64) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 5 at (38, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance at (92, 68) color (0, 38, 255, 255) direction 2
+Debug: Found connector on roof1 at (37, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof2 at (37, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof3 at (37, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof4 at (37, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 10 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10 at (20, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 11 at (59, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 12 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 12 at (20, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13 at (20, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 14 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14 at (18, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15 at (20, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 16 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 16 at (20, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 17 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 17 at (20, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 18 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 18 at (20, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 19a at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 19a at (43, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 19b at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 19b at (43, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (63, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1b at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1b at (63, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 20a at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 20a at (63, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 20b at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 20b at (63, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2a at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a at (43, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2b at (43, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3a at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3a at (56, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3b at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3b at (56, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4 at (0, 38) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4 at (42, 38) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5 at (0, 38) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5 at (79, 38) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (12, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7a at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7a at (35, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7b at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7b at (35, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8 at (48, 25) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 9 at (0, 38) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9 at (59, 38) color (0, 38, 255, 255) direction 1
+Debug: Found connector on stairs1 at (11, 33) color (0, 38, 255, 255) direction 1
+Debug: Found connector on stairs1 at (0, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on stairs2 at (0, 33) color (0, 38, 255, 255) direction 0
+Debug: Found connector on stairs2 at (11, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on villagecenter1 at (0, 39) color (0, 38, 255, 255) direction 0
+Debug: Found connector on villagecenter1 at (79, 39) color (0, 38, 255, 255) direction 1
+Debug: Found connector on villageentryleft1 at (167, 66) color (0, 38, 255, 255) direction 1
+Debug: Found connector on villageentryleft2 at (119, 66) color (0, 38, 255, 255) direction 1
+Debug: Found connector on villageentryleft3 at (132, 66) color (0, 38, 255, 255) direction 1
+Debug: Found connector on villageentryright1 at (0, 66) color (0, 38, 255, 255) direction 0
+Debug: Found connector on villageentryright2 at (0, 66) color (0, 38, 255, 255) direction 0
+Debug: Found connector on villageentryright3 at (0, 66) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (33, 86) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (117, 86) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a at (33, 41) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (117, 41) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2a at (65, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a at (85, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b at (65, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2b at (85, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2c at (65, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2c at (85, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2d at (85, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2d at (65, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2e at (65, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2e at (85, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2f at (85, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2f at (65, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3a at (64, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3a at (98, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3b at (64, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3b at (98, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3c at (64, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3c at (98, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4a at (43, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4a at (107, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4b at (43, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4b at (107, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4c at (43, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4c at (107, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4d at (43, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4d at (107, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4e at (43, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4e at (107, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4f at (43, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4f at (107, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5a at (67, 105) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5a at (95, 105) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5a at (67, 90) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5a at (67, 75) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5a at (67, 60) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5a at (67, 45) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5a at (67, 30) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5a at (99, 27) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b at (55, 105) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5b at (83, 105) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5b at (83, 90) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5b at (83, 75) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5b at (83, 60) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5b at (83, 45) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5b at (83, 30) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5b at (51, 27) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5c at (55, 105) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5c at (71, 90) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5c at (71, 75) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5c at (71, 60) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5c at (71, 45) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5c at (71, 30) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5c at (103, 27) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5d at (97, 105) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5d at (81, 90) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5d at (81, 75) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5d at (81, 60) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5d at (81, 45) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5d at (81, 30) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5d at (49, 27) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5e at (24, 108) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5e at (128, 108) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5e at (40, 93) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5e at (112, 93) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5e at (40, 78) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5e at (112, 78) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5e at (40, 63) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5e at (112, 63) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5e at (40, 48) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5e at (112, 48) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5e at (40, 33) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5e at (112, 33) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5f at (24, 126) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5f at (128, 126) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5f at (40, 111) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5f at (112, 111) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5f at (40, 96) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5f at (112, 96) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5f at (40, 81) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5f at (112, 81) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5f at (40, 66) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5f at (112, 66) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5f at (40, 51) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 5f at (112, 51) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 5f at (60, 12) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5f at (92, 12) color (0, 38, 255, 255) direction 1
+Debug: Found connector on cellleft at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1a at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1b at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1c at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1d at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1e at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1f at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1g at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1h at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1i at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1j at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1k at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1l at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1m at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1n at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1o at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1p at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1q at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1r at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1s at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1t at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1u at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1v at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1w at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1x at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1y at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellleft1z at (14, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cellright at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1a at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1b at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1c at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1d at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1e at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1f at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1g at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1h at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1i at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1j at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1k at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1l at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1m at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1n at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1o at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1p at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1q at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1r at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1s at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1t at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1u at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1v at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1w at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1x at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1y at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cellright1z at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on endleft1 at (25, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2 at (25, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright1 at (22, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2 at (22, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (33, 36) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (117, 36) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a at (11, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (89, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a-chest at (11, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a-chest at (89, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2a at (11, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a at (89, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2a-chest at (11, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a-chest at (89, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b at (11, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2b at (89, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b-chest at (11, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2b-chest at (89, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3a at (43, 75) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3a at (62, 20) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3b at (61, 75) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3b at (42, 20) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3c at (43, 75) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3c at (43, 20) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3d at (62, 75) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3d at (62, 20) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4a at (34, 45) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4a at (62, 34) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4b at (62, 45) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4b at (34, 34) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5a at (26, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5a at (73, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b at (26, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5b at (73, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b-chest at (26, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5b-chest at (73, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5c at (26, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5c at (73, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1a-chest at (21, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1b-chest at (21, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2 at (17, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright1a-chest at (7, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1b-chest at (7, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2 at (11, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (15, 60) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (176, 60) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a at (48, 77) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1a at (48, 20) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 1b at (48, 77) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1b at (48, 20) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 2a at (49, 77) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2a at (49, 20) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 2b at (49, 77) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2b at (49, 20) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 3a at (49, 69) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 3a at (49, 29) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 3b at (49, 69) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 3b at (49, 29) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 4a at (49, 68) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4a at (49, 29) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 4b at (49, 68) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4b at (49, 29) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endcapleft at (29, 32) color (0, 255, 186, 255) direction 1
+Debug: Found connector on endcapright at (0, 32) color (0, 255, 186, 255) direction 0
+Debug: Found connector on endtoproof1a at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endtoproof2a at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endtoproof2b at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endtoproof3a at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endtoproof3b at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endtoproof4a at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endtoproof4b at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on groundhut1a at (25, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut1a at (73, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut1b at (25, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut1b at (73, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut2a at (23, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut2a at (76, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut2b at (23, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut2b at (76, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut3a at (20, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut3a at (76, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut3b at (20, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut3b at (76, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut4a at (21, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut4a at (78, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut4b at (21, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut4b at (78, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut5a at (21, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut5a at (78, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut5b at (21, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut5b at (78, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut6a at (22, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut6a at (75, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on groundhut6b at (22, 49) color (0, 255, 186, 255) direction 0
+Debug: Found connector on groundhut6b at (75, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on roof1a at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof2a at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof2b at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof3a at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof3b at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof4a at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on roof4b at (48, 24) color (0, 38, 255, 255) direction 3
+Debug: Found connector on treebase1 at (48, 74) color (0, 38, 255, 255) direction 2
+Debug: Found connector on treebase1 at (71, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on treebase1 at (25, 47) color (0, 255, 186, 255) direction 0
+Debug: Found connector on treebase2 at (48, 74) color (0, 38, 255, 255) direction 2
+Debug: Found connector on treebase2 at (23, 48) color (0, 255, 186, 255) direction 0
+Debug: Found connector on treebase2 at (73, 46) color (0, 255, 186, 255) direction 1
+Debug: Found connector on treebase3 at (48, 74) color (0, 38, 255, 255) direction 2
+Debug: Found connector on treebase3 at (72, 49) color (0, 255, 186, 255) direction 1
+Debug: Found connector on treebase3 at (25, 48) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 1a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1b at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1b at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1b-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1b-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2a-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2b at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2b at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3a at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3a-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4a at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4a-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5a at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5a-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5b at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5b at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6a at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6a-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6b at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6b at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6b-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6b-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7a at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7a-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7b at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7b at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7b-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7b-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8a at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8a-left at (35, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase1 at (165, 100) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase1 at (201, 100) color (0, 255, 186, 255) direction 0
+Debug: Found connector on castlebase1 at (233, 100) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase1 at (269, 100) color (0, 255, 186, 255) direction 0
+Debug: Found connector on castlebase1 at (199, 80) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase1 at (268, 80) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase1 at (301, 80) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase1 at (98, 60) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase1 at (199, 60) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase1 at (268, 60) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase1 at (335, 60) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase2 at (193, 137) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase2 at (229, 137) color (0, 255, 186, 255) direction 0
+Debug: Found connector on castlebase2 at (261, 137) color (255, 168, 0, 255) direction 1
+Debug: Found connector on castlebase2 at (228, 117) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase2 at (91, 97) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase2 at (127, 97) color (0, 255, 186, 255) direction 2
+Debug: Found connector on castlebase2 at (160, 97) color (0, 38, 255, 255) direction 2
+Debug: Found connector on castlebase2 at (193, 97) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase2 at (228, 97) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase2 at (92, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase2 at (193, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase2 at (228, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase2 at (92, 57) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase2 at (159, 57) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase2 at (228, 57) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase3 at (184, 137) color (255, 168, 0, 255) direction 0
+Debug: Found connector on castlebase3 at (216, 137) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase3 at (252, 137) color (0, 255, 186, 255) direction 0
+Debug: Found connector on castlebase3 at (216, 117) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase3 at (216, 97) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase3 at (251, 97) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase3 at (284, 97) color (0, 38, 255, 255) direction 2
+Debug: Found connector on castlebase3 at (318, 97) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase3 at (354, 97) color (0, 255, 186, 255) direction 0
+Debug: Found connector on castlebase3 at (216, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase3 at (251, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase3 at (352, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase3 at (216, 57) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase3 at (285, 57) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase3 at (352, 57) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase4 at (223, 137) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase4 at (259, 137) color (0, 255, 186, 255) direction 0
+Debug: Found connector on castlebase4 at (157, 117) color (0, 255, 186, 255) direction 0
+Debug: Found connector on castlebase4 at (190, 117) color (0, 38, 255, 255) direction 2
+Debug: Found connector on castlebase4 at (223, 117) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase4 at (325, 117) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase4 at (122, 97) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase4 at (223, 97) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase4 at (258, 97) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase4 at (359, 97) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase4 at (156, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase4 at (223, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase4 at (292, 77) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase4 at (325, 77) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase5 at (165, 100) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase5 at (201, 100) color (0, 255, 186, 255) direction 0
+Debug: Found connector on castlebase5 at (233, 100) color (0, 255, 186, 255) direction 1
+Debug: Found connector on castlebase5 at (269, 100) color (0, 255, 186, 255) direction 2
+Debug: Found connector on castlebase5 at (301, 80) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase5 at (98, 60) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase5 at (165, 60) color (0, 38, 255, 255) direction 0
+Debug: Found connector on castlebase5 at (268, 60) color (0, 38, 255, 255) direction 1
+Debug: Found connector on castlebase5 at (369, 60) color (0, 38, 255, 255) direction 0
+Debug: Found connector on hall1a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on hall1a at (69, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on hall1a-left at (69, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on hall1a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on hall2a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on hall2a at (69, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on hall2a-left at (69, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on hall2a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on hall3a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on hall3a at (69, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on hall3a-left at (69, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on hall3a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on hall4a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on hall4a at (69, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on hall4a-left at (69, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on hall4a-right at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on mountainentrance1 at (5, 137) color (255, 168, 0, 255) direction 0
+Debug: Found connector on mountainentrance2 at (5, 137) color (255, 168, 0, 255) direction 0
+Debug: Found connector on mountainentrance3 at (5, 137) color (255, 168, 0, 255) direction 0
+Debug: Found connector on mountainentrance4 at (5, 137) color (255, 168, 0, 255) direction 0
+Debug: Found connector on mountainentrance5 at (218, 137) color (255, 168, 0, 255) direction 1
+Debug: Found connector on mountainentrance6 at (218, 137) color (255, 168, 0, 255) direction 1
+Debug: Found connector on mountainentrance7 at (218, 137) color (255, 168, 0, 255) direction 1
+Debug: Found connector on mountainentrance8 at (218, 137) color (255, 168, 0, 255) direction 1
+Debug: Found connector on prisonentry1a at (11, 28) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonentry1a at (46, 28) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonentry1a at (0, 4) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonentry1a at (58, 4) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonentry1a-left at (46, 28) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonentry1a-left at (0, 4) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonentry1a-left at (58, 4) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonentry1a-right at (11, 28) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonentry1a-right at (0, 4) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonentry1a-right at (58, 4) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonentry2a at (0, 28) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonentry2a at (35, 28) color (0, 38, 255, 255) direction 2
+Debug: Found connector on prisonentry2a at (57, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonentry2a-left at (35, 28) color (0, 38, 255, 255) direction 2
+Debug: Found connector on prisonentry2a-left at (57, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonentry2a-right at (0, 28) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonentry2a-right at (57, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonentry3a at (22, 28) color (0, 38, 255, 255) direction 2
+Debug: Found connector on prisonentry3a at (57, 28) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonentry3a at (1, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonentry3a-left at (57, 28) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonentry3a-left at (1, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonentry3a-right at (22, 28) color (0, 38, 255, 255) direction 2
+Debug: Found connector on prisonentry3a-right at (1, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonroom10a at (7, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonroom1a at (1, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonroom2a at (9, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonroom2b at (9, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonroom3a at (15, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonroom4a at (46, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonroom5a at (38, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonroom5b at (38, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonroom6a at (29, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonroom7a at (29, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on prisonroom8a at (15, 6) color (168, 255, 0, 255) direction 0
+Debug: Found connector on prisonroom9a at (40, 6) color (168, 255, 0, 255) direction 1
+Debug: Found connector on tower1a at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower1a at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower1a-left at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower1a-right at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower2a at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower2a at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower2a-left at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower2a-right at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower3a at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower3a at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower3a-left at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower3a-right at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower4a at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower4a at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower4a-left at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower4a-right at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower5a at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower5a at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower5a-left at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower5a-right at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower6a at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower6a at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower6a-left at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower6a-right at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower7a at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on tower7a at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower7a-left at (49, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on tower7a-right at (11, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 1a at (37, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (63, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1b at (37, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1b at (63, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1c at (37, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1c at (63, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2a at (1, 50) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2a at (97, 50) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b at (6, 50) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2b at (89, 50) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3a at (35, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3a at (64, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3a at (50, 35) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 3b at (35, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3b at (64, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3b at (50, 35) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 4a at (50, 59) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4a at (35, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4a at (64, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4b at (50, 59) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4b at (35, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4b at (64, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5a at (35, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5a at (50, 35) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 5b at (65, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b at (51, 35) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 6a at (50, 59) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 6a at (64, 42) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6b at (49, 59) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 6b at (34, 42) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7a at (50, 78) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 7a at (50, 33) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 8a at (36, 72) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 8a at (36, 27) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endbottom1 at (15, 12) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endleft1 at (11, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright1 at (9, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endtop1 at (15, 10) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance at (77, 21) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance at (23, 14) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (14, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (64, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10 at (11, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10 at (67, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11 at (17, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 11 at (57, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 12 at (26, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 12 at (54, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13 at (26, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13 at (53, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 14 at (20, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 14 at (56, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15 at (27, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 15 at (53, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 16 at (27, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 16 at (56, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 17a at (27, 63) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 17a at (52, 63) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 17b at (27, 63) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 17b at (52, 63) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 18a at (31, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 18a at (54, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 18b at (31, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 18b at (54, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 19a at (36, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 19a at (49, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 19b at (36, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 19b at (49, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2 at (23, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2 at (55, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 20a at (33, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 20a at (53, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 20b at (33, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 20b at (53, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 21a at (32, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 21a at (50, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 21b at (32, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 21b at (50, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 22a at (23, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 22a at (60, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 22b at (23, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 22b at (60, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 23a at (28, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 23a at (45, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 23b at (28, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 23b at (45, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (19, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3 at (60, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4 at (20, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4 at (58, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5 at (15, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5 at (64, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6 at (16, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (64, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7a at (19, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7a at (60, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7b at (19, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7b at (60, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8a at (25, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8a at (59, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8b at (20, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8b at (54, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 9a at (14, 20) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9a at (67, 20) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 9b at (12, 20) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9b at (65, 20) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1 at (69, 66) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright1 at (0, 66) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope1 at (3, 21) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope1 at (14, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope10 at (1, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope10 at (18, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope11 at (4, 21) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope11 at (14, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope12 at (15, 21) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope12 at (4, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope13 at (7, 21) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope13 at (12, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope14 at (12, 21) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope14 at (7, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope2 at (14, 21) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope2 at (3, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope3 at (16, 22) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope3 at (3, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope4 at (3, 22) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope4 at (16, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope5 at (3, 23) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope5 at (14, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope6 at (14, 23) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope6 at (3, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope7 at (1, 21) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope7 at (18, 19) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope8 at (18, 21) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope8 at (1, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on slope9 at (18, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on slope9 at (1, 19) color (0, 38, 255, 255) direction 0
+Debug: Found connector on towncenter1 at (34, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on towncenter1 at (117, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on towncenter2 at (34, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on towncenter2 at (113, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1 at (4, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (55, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1 at (12, 3) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 10 at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10 at (52, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11 at (1, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 12 at (8, 24) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 12 at (0, 8) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 12 at (42, 8) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 12 at (25, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 13 at (25, 47) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 13 at (25, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 14 at (14, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15a at (6, 21) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 15a at (29, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 15b at (6, 21) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 15b at (29, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 16a at (23, 21) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 16a at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 16b at (23, 21) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 16b at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 17 at (0, 15) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2 at (8, 27) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2 at (0, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2 at (54, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (6, 8) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 3 at (6, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 4 at (12, 27) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4 at (47, 3) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 5 at (8, 33) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 5 at (0, 17) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (12, 26) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 6 at (3, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (21, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6 at (12, 3) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 7 at (25, 47) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 7 at (25, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 8 at (55, 22) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8 at (29, 5) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 9 at (1, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9 at (53, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endceiling1a at (6, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling1b at (6, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling1c at (6, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling1d at (6, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling1e at (6, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling2 at (6, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling3 at (6, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endfloor1a at (6, 9) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor1b at (6, 9) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor1c at (6, 9) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2a at (6, 7) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2b at (6, 7) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor3 at (6, 5) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor4 at (6, 2) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endleft1a at (13, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1b at (13, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1c at (13, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2a at (8, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2b at (8, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2c at (8, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3a at (5, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3b at (5, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3c at (5, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4 at (2, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright1 at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1b at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1c at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2a at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2b at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2c at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3 at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3b at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3c at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4 at (0, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance at (193, 140) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance at (234, 140) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance at (202, 132) color (0, 38, 255, 255) direction 3
+Debug: Found connector on cell1aleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1aright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1bleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1bright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1cleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1cright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1dleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1dright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1eleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1eright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1fleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1fright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1gleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1gright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1hleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1hright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1ileft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1iright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1jleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1jright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1kleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1kright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1leftfill at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1lleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1lright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1mleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1mright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1nleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1nright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1oleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1oright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1pleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1pright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1qleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1qright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1rightfill at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1rleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1rright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1sleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1sright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on cell1tleft at (22, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on cell1tright at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on courtyard1a at (2, 32) color (0, 38, 255, 255) direction 0
+Debug: Found connector on courtyard1a at (59, 32) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entranceleft1 at (186, 95) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entranceleft2 at (186, 95) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entranceright1 at (21, 95) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entranceright2 at (21, 95) color (0, 38, 255, 255) direction 0
+Debug: Found connector on guardroom1a at (5, 39) color (0, 255, 186, 255) direction 0
+Debug: Found connector on guardroom1a at (43, 39) color (0, 255, 186, 255) direction 1
+Debug: Found connector on guardroom1a at (5, 9) color (0, 255, 186, 255) direction 0
+Debug: Found connector on guardroom1a at (43, 9) color (0, 255, 186, 255) direction 1
+Debug: Found connector on guardroom1b at (5, 39) color (0, 255, 186, 255) direction 0
+Debug: Found connector on guardroom1b at (43, 39) color (0, 255, 186, 255) direction 1
+Debug: Found connector on guardroom1b at (5, 9) color (0, 255, 186, 255) direction 0
+Debug: Found connector on guardroom1b at (43, 9) color (0, 255, 186, 255) direction 1
+Debug: Found connector on guardroom1c at (5, 39) color (0, 255, 186, 255) direction 0
+Debug: Found connector on guardroom1c at (43, 39) color (0, 255, 186, 255) direction 1
+Debug: Found connector on guardroom1c at (5, 9) color (0, 255, 186, 255) direction 0
+Debug: Found connector on guardroom1c at (43, 9) color (0, 255, 186, 255) direction 1
+Debug: Found connector on messhall1a at (2, 17) color (0, 38, 255, 255) direction 0
+Debug: Found connector on messhall1a at (59, 17) color (0, 38, 255, 255) direction 1
+Debug: Found connector on messhall1b at (2, 17) color (0, 38, 255, 255) direction 0
+Debug: Found connector on messhall1b at (59, 17) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonblock1a at (24, 99) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1a at (43, 99) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1a at (24, 84) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1a at (43, 84) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1a at (24, 69) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1a at (43, 69) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1a at (24, 54) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1a at (43, 54) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1a at (4, 39) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonblock1a at (63, 39) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonblock1b at (24, 99) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1b at (43, 99) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1b at (24, 84) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1b at (43, 84) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1b at (4, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonblock1b at (63, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonblock1c at (24, 99) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1c at (43, 99) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1c at (24, 84) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1c at (43, 84) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1c at (4, 69) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonblock1c at (63, 69) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonblock1c at (34, 66) color (0, 38, 255, 255) direction 3
+Debug: Found connector on prisonblock1d at (34, 67) color (0, 38, 255, 255) direction 2
+Debug: Found connector on prisonblock1d at (24, 54) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1d at (43, 54) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1d at (24, 39) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock1d at (43, 39) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock1d at (4, 24) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonblock1d at (63, 24) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonblock2a at (36, 90) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2a at (75, 90) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2a at (111, 90) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2a at (150, 90) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2a at (36, 75) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2a at (150, 75) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2a at (36, 60) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2a at (75, 60) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2a at (111, 60) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2a at (150, 60) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2a at (16, 30) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonblock2a at (170, 30) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonblock2b at (61, 90) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2b at (100, 90) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2b at (61, 75) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2b at (61, 60) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2b at (100, 60) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2b at (136, 60) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2b at (41, 30) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonblock2b at (143, 30) color (0, 38, 255, 255) direction 1
+Debug: Found connector on prisonblock2c at (87, 90) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2c at (126, 90) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2c at (126, 75) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2c at (51, 60) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2c at (87, 60) color (0, 255, 186, 255) direction 0
+Debug: Found connector on prisonblock2c at (126, 60) color (0, 255, 186, 255) direction 1
+Debug: Found connector on prisonblock2c at (44, 30) color (0, 38, 255, 255) direction 0
+Debug: Found connector on prisonblock2c at (146, 30) color (0, 38, 255, 255) direction 1
+Debug: Found connector on showerhall1a at (2, 17) color (0, 38, 255, 255) direction 0
+Debug: Found connector on showerhall1a at (59, 17) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1 at (0, 9) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (31, 9) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1 at (3, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2 at (8, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (8, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4 at (8, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5 at (8, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (23, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7 at (5, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7 at (23, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8 at (26, 11) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1 at (3, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 10 at (3, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 10 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 11 at (2, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 11 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 12 at (26, 25) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 12 at (2, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13 at (5, 25) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13 at (29, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2 at (2, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (2, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4 at (29, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5 at (2, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (3, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7 at (3, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 8 at (3, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 8 at (26, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 9 at (3, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 9 at (26, 16) color (0, 38, 255, 255) direction 1
+Warn: Slow asset 0.057 : /dungeons/microdungeons/randomencounter/underground generic/undergroundencounter.dungeon
+Debug: Found connector on 10a at (0, 19) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 10a at (58, 10) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 10b at (58, 19) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 10b at (0, 10) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 11a at (52, 43) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 11a at (0, 5) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 11a at (50, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 11b at (0, 43) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 11b at (52, 5) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 11b at (2, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 12a at (2, 43) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 12a at (52, 41) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 12a at (0, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 12b at (50, 43) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 12b at (0, 41) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 12b at (52, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 13a at (98, 86) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13a at (92, 44) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 13a at (2, 6) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13b at (2, 86) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13b at (8, 44) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 13b at (98, 6) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1a at (31, 55) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1a at (0, 17) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1a at (42, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 1b at (22, 58) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1b at (55, 22) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1b at (0, 11) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1c at (15, 55) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1c at (58, 28) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1c at (27, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 1d at (57, 38) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1d at (2, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1d at (35, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 2a at (31, 55) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2a at (56, 7) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2b at (25, 55) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 2b at (0, 7) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2c at (58, 20) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2c at (16, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 2d at (0, 39) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2d at (25, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 3 at (0, 8) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3 at (52, 8) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4 at (0, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4 at (52, 10) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5a at (0, 35) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5a at (52, 35) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5a at (3, 6) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5a at (50, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b at (24, 39) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 5b at (47, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5b at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5c at (0, 37) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5c at (50, 15) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5d at (52, 37) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5d at (2, 8) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5e at (0, 39) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5e at (50, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5e at (3, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5f at (52, 39) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5f at (2, 10) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5f at (49, 6) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5g at (0, 38) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5g at (52, 37) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5g at (50, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5h at (0, 37) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5h at (52, 35) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5h at (2, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6a at (140, 47) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6a at (0, 44) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6b at (69, 88) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 6b at (0, 47) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 6b at (140, 44) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 6c at (71, 88) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 6c at (140, 47) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 6c at (0, 44) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 6d at (69, 88) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 6d at (0, 47) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 6d at (140, 44) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6e at (71, 88) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 6e at (140, 47) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 6e at (0, 44) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7a at (0, 32) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 7a at (119, 31) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 7b at (119, 32) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 7b at (0, 31) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 8a at (119, 48) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 8a at (0, 47) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 8b at (0, 48) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 8b at (119, 47) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 9a at (0, 14) color (0, 255, 186, 255) direction 0
+Debug: Found connector on 9a at (58, 5) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 9b at (58, 14) color (0, 255, 186, 255) direction 1
+Debug: Found connector on 9b at (0, 5) color (0, 255, 186, 255) direction 0
+Debug: Found connector on campsite1left at (58, 12) color (240, 255, 0, 255) direction 1
+Debug: Found connector on campsite1right at (14, 12) color (240, 255, 0, 255) direction 0
+Debug: Found connector on campsite2left at (56, 12) color (240, 255, 0, 255) direction 1
+Debug: Found connector on campsite2right at (16, 12) color (240, 255, 0, 255) direction 0
+Debug: Found connector on campsite3left at (56, 12) color (240, 255, 0, 255) direction 1
+Debug: Found connector on campsite3right at (16, 12) color (240, 255, 0, 255) direction 0
+Debug: Found connector on campsite4left at (53, 12) color (240, 255, 0, 255) direction 1
+Debug: Found connector on campsite4right at (19, 12) color (240, 255, 0, 255) direction 0
+Debug: Found connector on campsite5left at (58, 12) color (240, 255, 0, 255) direction 1
+Debug: Found connector on campsite5right at (14, 12) color (240, 255, 0, 255) direction 0
+Debug: Found connector on campsite6left at (56, 12) color (240, 255, 0, 255) direction 1
+Debug: Found connector on campsite6right at (16, 12) color (240, 255, 0, 255) direction 0
+Debug: Found connector on endceiling1 at (8, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling2a at (8, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling2b at (8, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling2c at (8, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling2d at (8, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on endceiling3 at (8, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on enddarkleft at (6, 3) color (0, 255, 186, 255) direction 1
+Debug: Found connector on enddarkright at (0, 3) color (0, 255, 186, 255) direction 0
+Debug: Found connector on endfloor1 at (8, 3) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2a at (8, 4) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2b at (8, 4) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2c at (8, 4) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endfloor2d at (8, 4) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endleft1a at (29, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1b at (29, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft1c at (29, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2a at (21, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2b at (21, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2c at (21, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3a at (10, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3b at (10, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft3c at (10, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4a at (7, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4b at (7, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft4c at (7, 3) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright1a at (0, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1b at (0, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright1c at (0, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2a at (0, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2b at (0, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2c at (0, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3a at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3b at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright3c at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4a at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4b at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright4c at (0, 3) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance1 at (75, 72) color (240, 255, 0, 255) direction 1
+Debug: Found connector on entrance1 at (31, 5) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance2a at (18, 40) color (240, 255, 0, 255) direction 0
+Debug: Found connector on entrance2a at (57, 40) color (240, 255, 0, 255) direction 1
+Debug: Found connector on entrance2a at (60, 6) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance2a at (13, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance2b at (18, 40) color (240, 255, 0, 255) direction 0
+Debug: Found connector on entrance2b at (60, 6) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance2b at (13, 5) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance2c at (55, 40) color (240, 255, 0, 255) direction 1
+Debug: Found connector on entrance2c at (13, 6) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance2c at (60, 5) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance3 at (0, 63) color (240, 255, 0, 255) direction 0
+Debug: Found connector on entrance3 at (66, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance4a at (0, 4) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance4a at (2, 4) color (0, 38, 255, 255) direction 1
+Debug: Found connector on entrance4b at (0, 4) color (0, 255, 186, 255) direction 0
+Debug: Found connector on entrance4b at (2, 4) color (0, 255, 186, 255) direction 1
+Debug: Found connector on entrance5 at (0, 25) color (240, 255, 0, 255) direction 0
+Debug: Found connector on entrance5 at (48, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance6 at (54, 38) color (240, 255, 0, 255) direction 1
+Debug: Found connector on entrance6 at (21, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 1 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (70, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2 at (0, 39) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2 at (89, 39) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (0, 39) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3 at (89, 39) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 4 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 4 at (89, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5 at (91, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 6 at (51, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 7 at (0, 16) color (0, 38, 255, 255) direction 0
+Debug: Found connector on entrance at (121, 16) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 1 at (41, 57) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 1 at (5, 13) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 1 at (78, 13) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 2 at (5, 27) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 2 at (78, 27) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (6, 27) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 3 at (83, 27) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 3 at (44, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 4 at (19, 57) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 4 at (11, 6) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 5 at (83, 34) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 5 at (44, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 6 at (19, 57) color (0, 38, 255, 255) direction 2
+Debug: Found connector on 6 at (66, 32) color (0, 38, 255, 255) direction 1
+Debug: Found connector on 6 at (19, 5) color (0, 38, 255, 255) direction 3
+Debug: Found connector on 7 at (6, 26) color (0, 38, 255, 255) direction 0
+Debug: Found connector on 7 at (77, 26) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endbottom at (9, 14) color (0, 38, 255, 255) direction 2
+Debug: Found connector on endleft at (78, 27) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleft2 at (78, 27) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endleftsmall at (5, 2) color (0, 38, 255, 255) direction 1
+Debug: Found connector on endright at (6, 27) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endright2 at (6, 27) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endrightsmall at (1, 2) color (0, 38, 255, 255) direction 0
+Debug: Found connector on endtop at (4, 0) color (0, 38, 255, 255) direction 3
+Debug: Found connector on entrance1 at (119, 13) color (0, 38, 255, 255) direction 3
+Info: Done loading Star::Root.
+Info: Server version 'Beta v. Offended Koala' '623' '424'
+Info: Scanning for router for portforwarding
+Info: Done scanning for router for portforwarding
+Info: Creating world alpha:33070:-77521867:-25062865:9:7 
+Debug: Correcting path from /biomes/underground/generic/top/rockunderground.undergroundparallax to /biomes/underground/Generic/top/rockunderground.undergroundparallax
+Debug: Correcting path from /biomes/underground/generic/top/desertunderground.png to /biomes/underground/Generic/top/desertunderground.png
+Debug: Correcting path from /biomes/underground/generic/top/rockdivider.png to /biomes/underground/Generic/top/rockdivider.png
+Debug: Correcting path from /biomes/underground/generic/desert.undergroundparallax to /biomes/underground/Generic/desert.undergroundparallax
+Debug: Correcting path from /biomes/underground/generic/desertunderground.png to /biomes/underground/Generic/desertunderground.png
+Debug: Correcting path from /biomes/underground/generic/rockdivider.png to /biomes/underground/Generic/rockdivider.png
+Info: Spawn surface at (0, 437.5)
+Info: Generating 1 dungeons
+Info: Generating a dungeon
+Info: Placing dungeon at (1084, 427)
+Debug: Dungeon entrance placed at (1084, 378)
+Debug: Trying to add part treebase1 at (1084, 378) connectors: 3
+Debug: Connects to 15 parts
+Debug: placed
+Debug: Connects to 13 parts
+Debug: placed
+Debug: Connects to 13 parts
+Debug: placed
+Debug: Trying to add part 1a at (1084, 431) connectors: 2
+Debug: Connects to 20 parts
+Debug: placed
+Debug: Connects to 9 parts
+Debug: Trying to add part groundhut3b at (1134, 378) connectors: 2
+Debug: Connects to 4 parts
+Debug: Connects to 4 parts
+Debug: placed
+Debug: Trying to add part groundhut1b at (1037, 376) connectors: 2
+Debug: Connects to 4 parts
+Debug: placed
+Debug: Connects to 4 parts
+Debug: Trying to add part roof2a at (1084, 483) connectors: 1
+Debug: Connects to 8 parts
+Debug: Trying to add part treebase2 at (1186, 379) connectors: 3
+Debug: Connects to 15 parts
+Debug: placed
+Debug: Connects to 13 parts
+Debug: Connects to 13 parts
+Debug: placed
+Debug: Trying to add part treebase3 at (991, 376) connectors: 3
+Debug: Connects to 15 parts
+Debug: placed
+Debug: Connects to 13 parts
+Debug: Connects to 13 parts
+Debug: placed
+Debug: Trying to add part 4a at (1185, 423) connectors: 2
+Debug: Connects to 22 parts
+Debug: placed
+Debug: Connects to 11 parts
+Debug: Trying to add part groundhut4b at (1237, 376) connectors: 2
+Debug: Connects to 4 parts
+Debug: Connects to 4 parts
+Debug: placed
+Debug: Trying to add part 2b at (990, 429) connectors: 2
+Debug: Connects to 20 parts
+Debug: placed
+Debug: Connects to 9 parts
+Debug: Trying to add part groundhut2a at (941, 375) connectors: 2
+Debug: Connects to 4 parts
+Debug: placed
+Debug: Connects to 4 parts
+Debug: Trying to add part roof4b at (1186, 466) connectors: 1
+Debug: Connects to 8 parts
+Debug: Trying to add part endcapright at (1314, 393) connectors: 1
+Debug: Connects to 13 parts
+Debug: Trying to add part roof3a at (991, 481) connectors: 1
+Debug: Connects to 8 parts
+Debug: Trying to add part endcapleft at (936, 392) connectors: 1
+Debug: Connects to 13 parts
+Debug: Settling dungeon water.
+Debug: Flushing dungeon into the worldgen.
+Debug: Marking Box{min:(1110, 403) max:(1154, 451)} as dungeon region
+Debug: Marking (1110, 1154) as dungeon surface of height 427
+Debug: Marking Box{min:(1110, 452) max:(1155, 507)} as dungeon region
+Debug: Marking (1110, 1155) as dungeon surface of height 427
+Debug: Marking Box{min:(1155, 405) max:(1209, 452)} as dungeon region
+Debug: Marking (1155, 1209) as dungeon surface of height 427
+Debug: Marking Box{min:(1063, 397) max:(1109, 459)} as dungeon region
+Debug: Marking (1063, 1109) as dungeon surface of height 427
+Debug: Marking Box{min:(1098, 508) max:(1166, 552)} as dungeon region
+Debug: Marking (1098, 1166) as dungeon surface of height 427
+Debug: Marking Box{min:(1210, 403) max:(1258, 452)} as dungeon region
+Debug: Marking (1210, 1258) as dungeon surface of height 427
+Debug: Marking Box{min:(1017, 400) max:(1062, 449)} as dungeon region
+Debug: Marking (1017, 1062) as dungeon surface of height 427
+Debug: Marking Box{min:(1211, 453) max:(1257, 490)} as dungeon region
+Debug: Marking (1211, 1257) as dungeon surface of height 427
+Debug: Marking Box{min:(1259, 403) max:(1314, 451)} as dungeon region
+Debug: Marking (1259, 1314) as dungeon surface of height 427
+Debug: Marking Box{min:(1017, 450) max:(1061, 505)} as dungeon region
+Debug: Marking (1017, 1061) as dungeon surface of height 427
+Debug: Marking Box{min:(965, 390) max:(1016, 459)} as dungeon region
+Debug: Marking (965, 1016) as dungeon surface of height 427
+Debug: Marking Box{min:(1196, 491) max:(1272, 533)} as dungeon region
+Debug: Marking (1196, 1272) as dungeon surface of height 427
+Debug: Marking Box{min:(1315, 394) max:(1342, 461)} as dungeon region
+Debug: Marking (1315, 1342) as dungeon surface of height 427
+Debug: Marking Box{min:(1005, 506) max:(1073, 551)} as dungeon region
+Debug: Marking (1005, 1073) as dungeon surface of height 427
+Debug: Marking Box{min:(937, 393) max:(964, 460)} as dungeon region
+Debug: Marking (937, 964) as dungeon surface of height 427
+Warn: Object wflowerpot does not have a category set
+Warn: Failed to place dungeon object: floranlight direction: 0 position: (1044, 435)
+Warn: Failed to place dungeon object: floranlight direction: 0 position: (991, 436)
+Warn: Failed to place dungeon object: floranlight direction: 0 position: (1240, 440)
+Warn: Failed to place dungeon object: floranlight direction: 0 position: (1045, 446)
+Warn: Failed to place dungeon object: floranlight direction: 0 position: (1138, 447)
+Warn: Failed to place dungeon object: floranlight direction: 0 position: (1126, 489)
+Warn: Failed to place dungeon object: floranpainting1 direction: 0 position: (1230, 517)
+Debug: Correcting path from /items/swords/randomgenerated/broadsword/blade/29.png to /items/swords/randomgenerated/Broadsword/blade/29.png
+Debug: Correcting path from /items/swords/randomgenerated/broadsword/handle/18.png to /items/swords/randomgenerated/Broadsword/handle/18.png
+Debug: Correcting path from /items/armors/floran/floranleaf/icons.png to /items/armors/floran/floranleaf/Icons.png
+Debug: Correcting path from /items/armors/floran/floranpelt/icons.png to /items/armors/floran/floranpelt/Icons.png
+Debug: Correcting path from /items/armors/floran/floranfurnivour/icons.png to /items/armors/floran/floranfurnivour/Icons.png
+Debug: Correcting path from /items/armors/floran/floranfurnivour/icons.png to /items/armors/floran/floranfurnivour/Icons.png
+Debug: Correcting path from /items/armors/floran/floranhunter/icons.png to /items/armors/floran/floranhunter/Icons.png
+Debug: Correcting path from /items/armors/floran/floranfurnivour/icons.png to /items/armors/floran/floranfurnivour/Icons.png
+Debug: Correcting path from /items/swords/randomgenerated/broadsword/blade/13.png to /items/swords/randomgenerated/Broadsword/blade/13.png
+Debug: Correcting path from /items/swords/randomgenerated/broadsword/handle/36.png to /items/swords/randomgenerated/Broadsword/handle/36.png
+Debug: Correcting path from /items/swords/randomgenerated/sword/blade/21.png to /items/swords/randomgenerated/Sword/blade/21.png
+Debug: Correcting path from /items/swords/randomgenerated/sword/handle/13.png to /items/swords/randomgenerated/Sword/handle/13.png
+Debug: Correcting path from /items/swords/randomgenerated/sword/handle/13.png to /items/swords/randomgenerated/Sword/handle/13.png
+Debug: Correcting path from /items/armors/floran/floranpelt/icons.png to /items/armors/floran/floranpelt/Icons.png
+Debug: Correcting path from /items/swords/randomgenerated/sword/blade/4.png to /items/swords/randomgenerated/Sword/blade/4.png
+Debug: Correcting path from /items/swords/randomgenerated/sword/handle/2.png to /items/swords/randomgenerated/Sword/handle/2.png
+Debug: Correcting path from /items/armors/floran/floranpelt/icons.png to /items/armors/floran/floranpelt/Icons.png
+Warn: Perf: DungeonDefinition::buildDungeon millis: 2236
+Warn: Perf: DungeonGenerator::generate millis: 2242
+Warn: Object statuspod does not have a price set
+Debug: Dungeon entrance placed at (73, 399)
+Debug: Trying to add part 7 at (73, 399) connectors: 0
+Debug: Settling dungeon water.
+Debug: Flushing dungeon into the worldgen.
+Warn: Slow asset 0.189 : /plants/grass/ground/decorative/testflower/testflower4.png
+Warn: Slow asset 0.189 : /plants/grass/ground/decorative/testflower/testflower4.png
+Warn: Perf: UniverseServer::createWorld millis: 6373
+Info: bind *:21025 (8)
+Info: TcpServer listening on: *:21025 (8)
+Info: bind *:21025 (9)
+Info: UdpServer listening on: *:21025 (9)
+Warn: Perf: WorldServerThread::sync millis: 376
+Warn: Perf: UniverseServer::doTriggeredStorage millis: 376
+Warn: Perf: WorldServerThread::update.worldUpdate millis: 407
+Warn: Perf: WorldServerThread::update millis: 408
+Warn: Perf: UniverseServer::run.innerloop millis: 477
+Info: Shutting down world alpha:33070:-77521867:-25062865:9:7
+Warn: Perf: UniverseServer::run.innerloop millis: 160
+Info: accept from 127.0.0.1:34035 (11)
+Info: Connection received from: 127.0.0.1:34035
+Info: UniverseServer: client connection made from 127.0.0.1:34035
+Info: closing 127.0.0.1:34035 (11)
+Warn: UniverseServer: client connection aborted
+Info: Reaping client <1> (127.0.0.1:34035) connection
+Info: accept from 127.0.0.1:34036 (12)
+Info: Connection received from: 127.0.0.1:34036
+Info: UniverseServer: client connection made from 127.0.0.1:34036
+Info: closing 127.0.0.1:34036 (12)
+Warn: UniverseServer: client connection aborted
+Info: Reaping client <1> (127.0.0.1:34036) connection
+Warn: Perf: UniverseServer::run.innerloop millis: 158
+Warn: Perf: UniverseServer::run.innerloop millis: 172
+Warn: Perf: UniverseServer::run.innerloop millis: 152
+Info: accept from 127.0.0.1:34145 (13)
+Info: Connection received from: 127.0.0.1:34145
+Info: UniverseServer: client connection made from 127.0.0.1:34145
+Info: closing 127.0.0.1:34145 (13)
+Warn: UniverseServer: client connection aborted
+Info: Reaping client <1> (127.0.0.1:34145) connection
