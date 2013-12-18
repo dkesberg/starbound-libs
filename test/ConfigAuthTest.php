@@ -1,7 +1,7 @@
 <?php
 /**
- * @author      Daniel Kesberg <kesberg@ebene3.com>
- * @copyright   (c) 2013, ebene3 GmbH
+ * @author      Daniel Kesberg <kesberg@gmail.com>
+ * @copyright   (c) 2013, Daniel Kesberg
  */
 
 require '../src/Starbound/Config.php';
@@ -11,7 +11,7 @@ class ConfigAuthTest extends PHPUnit_Framework_TestCase {
     
     public function testReadsConfigFile()
     {        
-        $logfile = './data/accesscontrol.config';
+        $logfile = './data/accesscontrol/accesscontrol_1.config';
         $config = new \Starbound\Config\Auth($logfile);
         
         $this->assertTrue(is_a($config->getAccounts(), 'stdClass'));
@@ -22,7 +22,7 @@ class ConfigAuthTest extends PHPUnit_Framework_TestCase {
         $user       = 'php';
         $password   = 'unit';
         
-        $logfile = './data/accesscontrol.config';
+        $logfile = './data/accesscontrol/accesscontrol_1.config';
         $config = new \Starbound\Config\Auth($logfile);
         
         $config->addAccount($user, $password);
@@ -39,7 +39,7 @@ class ConfigAuthTest extends PHPUnit_Framework_TestCase {
      */
     public function testAddAccountThrowsExceptionOnMissingName()
     {
-        $logfile = './data/accesscontrol.config';
+        $logfile = './data/accesscontrol/accesscontrol_1.config';
         $config = new \Starbound\Config\Auth($logfile);
 
         $config->addAccount('','phpunit');
@@ -51,7 +51,7 @@ class ConfigAuthTest extends PHPUnit_Framework_TestCase {
      */
     public function testAddAccountThrowsExceptionOnMissingPassword()
     {
-        $logfile = './data/accesscontrol.config';
+        $logfile = './data/accesscontrol/accesscontrol_1.config';
         $config = new \Starbound\Config\Auth($logfile);
 
         $config->addAccount('phpunit','');
@@ -62,7 +62,7 @@ class ConfigAuthTest extends PHPUnit_Framework_TestCase {
         $user       = 'php';
         $password   = 'unit';
 
-        $logfile = './data/accesscontrol.config';
+        $logfile = './data/accesscontrol/accesscontrol_1.config';
         $config = new \Starbound\Config\Auth($logfile);
 
         $config->addAccount($user, $password);
@@ -78,7 +78,7 @@ class ConfigAuthTest extends PHPUnit_Framework_TestCase {
      */
     public function testRemoveAccountThrowsExceptionOnMissingName()
     {
-        $logfile = './data/accesscontrol.config';
+        $logfile = './data/accesscontrol/accesscontrol_1.config';
         $config = new \Starbound\Config\Auth($logfile);
         
         $config->removeAccount('');

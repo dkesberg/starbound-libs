@@ -1,7 +1,7 @@
 <?php
 /**
- * @author      Daniel Kesberg <kesberg@ebene3.com>
- * @copyright   (c) 2013, ebene3 GmbH
+ * @author      Daniel Kesberg <kesberg@gmail.com>
+ * @copyright   (c) 2013, Daniel Kesberg
  */
 
 namespace Starbound\Config;
@@ -23,5 +23,10 @@ class Server extends Config {
     public function getPasswords()
     {
         return $this->config->serverPasswords;
+    }
+    
+    public function getGamePort()
+    {
+        return $this->config->gamePort;
     }
 }

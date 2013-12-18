@@ -1,7 +1,7 @@
 <?php
 /**
- * @author      Daniel Kesberg <kesberg@ebene3.com>
- * @copyright   (c) 2013, ebene3 GmbH
+ * @author      Daniel Kesberg <kesberg@gmail.com>
+ * @copyright   (c) 2013, Daniel Kesberg
  */
 
 namespace Starbound\Config;
@@ -13,8 +13,7 @@ class Auth extends Config {
     public function getAccounts()
     {
         return $this->config->accounts;
-    }
-    
+    }    
     
     public function addAccount($name, $password) {
         
